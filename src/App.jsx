@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import './App.css';
-import db from '../../db.json';
+import db from '../db.json';
 import logo from '../public/logo.png'
 
 import { CiSearch } from "react-icons/ci";
