@@ -42,7 +42,7 @@ function App() {
       <section className='flex flex-col gap-4 md:p-16 lg:px-48 bg-gray-200'>
         <div className='flex'>
           <input type="search" name="" id="" placeholder='Digite o nome, apt...'
-            className='w-full my-4 ml-2 p-2 rounded-lg placeholder:text-gray-800'
+            className='w-full my-4 ml-2 p-2 rounded-lg placeholder:text-gray-800 bg-white'
             value={searchTerm}
             onChange={handleSearch} />
           <div className='flex items-center justify-center mr-2 ml-1 text-gray-900 text-2xl'
