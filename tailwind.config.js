@@ -8,6 +8,7 @@ export default {
     extend: {
       fontFamily: {
         'bebas-neue': ['Bebas Neue', 'sans-serif'],
+        'montserrat': ['Montserrat', 'sans-serif'],
       }
     },
   },

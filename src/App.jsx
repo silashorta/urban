@@ -39,7 +39,7 @@ function App() {
         <img src={logo} alt="" />
         <h2 className='text-4xl font-bebas-neue text-gray-800'>Cadastro de Moradores</h2>
       </section>
-      <section className='flex flex-col gap-4 md:p-16 lg:px-48 bg-gray-200'>
+      <section className='flex flex-col gap-4 md:p-16 lg:px-48 bg-gray-200 font-montserrat'>
         <div className='flex'>
           <input type="search" name="" id="" placeholder='Digite o nome, apt...'
             className='w-full my-4 ml-2 p-2 rounded-lg placeholder:text-gray-800 bg-white'
