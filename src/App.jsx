@@ -45,7 +45,7 @@ function App() {
             className='w-full my-4 ml-2 p-2 rounded-lg placeholder:text-gray-800 bg-white'
             value={searchTerm}
             onChange={handleSearch} />
-          <div className='flex items-center justify-center mr-2 ml-1 text-gray-900 text-2xl'
+          <div className='flex items-center justify-center mr-2 ml-1 text-gray-600 text-2xl'
             onClick={handleSearch}>
             <CiSearch />
           </div>
@@ -87,7 +87,7 @@ function App() {
                 <div className='flex flex-col'>
                   {item.dependentes.map((dependente, dependenteIndex) => (
                     <div key={dependenteIndex}>
-                      <div className='uppercase'>{dependente.nome} - {dependente.tipo}</div>
+                      <div className='uppercase'><span className='text-gray-800'>{dependente.nome}</span> - <span className='text-gray-500'>{dependente.tipo}</span></div>
                     </div>
                   ))}
                 </div>
