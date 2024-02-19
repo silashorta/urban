@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import React, { useState } from 'react';
 import './App.css';
 import db from '../db.json';
 import logo from '../public/logo.png'
@@ -50,54 +50,59 @@ function App() {
             <CiSearch />
           </div>
         </div>
-        {filteredData.map((item, index) => (
-          <div key={index} className='flex flex-col gap-2 m-2 p-4 lg:p-8 bg-gray-50 rounded-lg'>
-            <div className='flex gap-6'>
-              <div className='flex gap-1'>
-                <div className='flex items-center text-2xl text-gray-900'>
-                  <BiBuildingHouse />
+        {filteredData.length === 0 ? (
+          <div className="text-gray-600 text-xl text-center">Nenhum registro encontrado.</div>
+        ) : (
+          filteredData.map((item, index) => (
+            <div key={index} className='flex flex-col gap-2 m-2 p-4 lg:p-8 bg-gray-50 rounded-lg'>
+              <div className='flex gap-6'>
+                <div className='flex gap-1'>
+                  <div className='flex items-center text-2xl text-gray-900'>
+                    <BiBuildingHouse />
+                  </div>
+                  <div className='font-semibold'>Bloco: </div>
+                  <div className='font-bold'>{item.bloco}</div>
                 </div>
-                <div className='font-semibold'>Bloco: </div>
-                <div className='font-bold'>{item.bloco}</div>
+                <div className='flex gap-1'>
+                  <div className='font-semibold'>Apartamento:</div>
+                  <div className='font-bold'>{item.apt}</div>
+                </div>
               </div>
-              <div className='flex gap-1'>
-                <div className='font-semibold'>Apartamento:</div>
-                <div className='font-bold'>{item.apt}</div>
-              </div>
-            </div>
-            <hr className='my-2' />
-            <div className='flex flex-col gap-1 items-start'>
-              <div className='flex gap-2 items-center text-gray-900'>
-                <FaUser />
-                <div className='font-semibold text-gray-900'>{item.tipo}</div>
+              <hr className='my-2' />
+              <div className='flex flex-col gap-1 items-start'>
+                <div className='flex gap-2 items-center text-gray-900'>
+                  <FaUser />
+                  <div className='font-semibold text-gray-900'>{item.tipo}</div>
+                </div>
+                <div>
+                  <div className='font-bold uppercase'>{item.nome}</div>
+                </div>
               </div>
               <div>
-                <div className='font-bold uppercase'>{item.nome}</div>
               </div>
-            </div>
-            <div>
-            </div>
-            <hr className='my-2' />
-            {item.dependentes.length > 0 ? (
-              <div className='flex flex-col gap-2'>
-                <div className='flex gap-2 items-center text-gray-900'>
-                  <FaUserFriends className='text-xl' />
-                  <div className='uppercase font-semibold'>Dependentes</div>
+              <hr className='my-2' />
+              {item.dependentes.length > 0 ? (
+                <div className='flex flex-col gap-2'>
+                  <div className='flex gap-2 items-center text-gray-900'>
+                    <FaUserFriends className='text-xl' />
+                    <div className='uppercase font-semibold'>Dependentes</div>
+                  </div>
+                  <div className='flex flex-col'>
+                    {item.dependentes.map((dependente, dependenteIndex) => (
+                      <div key={dependenteIndex}>
+                        <div className='uppercase'>
+                          <span className='text-gray-800'>{dependente.nome}</span> - <span className='text-gray-500'>{dependente.tipo}</span>
+                        </div>
+                      </div>
+                    ))}
+                  </div>
                 </div>
-                <div className='flex flex-col'>
-                  {item.dependentes.map((dependente, dependenteIndex) => (
-                    <div key={dependenteIndex}>
-                      <div className='uppercase'><span className='text-gray-800'>{dependente.nome}</span> - <span className='text-gray-500'>{dependente.tipo}</span></div>
-                    </div>
-                  ))}
-                </div>
-              </div>
-            ) : null}
-          </div>
-        ))}
+              ) : null}
+            </div>
+          ))
+        )}
       </section>
     </div>
   );
 }
-
-export default App;
+export default App
