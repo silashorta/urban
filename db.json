@@ -3442,18 +3442,13 @@
     "apt": 101,
     "nome": "YURI ANDRADE DE PAULA",
     "tipo": "PROPIETARIO",
-    "dependentes": [],
+    "dependentes": [
+      {
+        "nome": "RAPHAELA RAMOS DO ROSÁRIO",
+        "tipo": "NOIVA"
+      }
+    ],
     "vaga": 0,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": "",
-    "apt": "",
-    "nome": "RAPHAELA RAMOS DO ROSÁRIO",
-    "tipo": "NOIVA",
-    "dependentes": [],
-    "vaga": "",
     "veiculo": "",
     "moto": ""
   },
@@ -3462,48 +3457,26 @@
     "apt": 102,
     "nome": "ANA ANGELICA DO NASCIMENTO",
     "tipo": "PROPIETARIO",
-    "dependentes": [],
+    "dependentes": [
+      {
+        "apt": 102,
+        "nome": "ANTONIO CARLOS COSTA DE JESUS",
+        "tipo": "MARIDO"
+      },
+      {
+        "nome": "ANNE CAROLINE NASCIMENTO COSTA",
+        "tipo": "FILHA"
+      },
+      {
+        "nome": "ADRYELLE CRISTINE NASCIMENTO COSTA",
+        "tipo": "FILHA"
+      },
+      {
+        "nome": "ANA VITORIA",
+        "tipo": "NETA"
+      }
+    ],
     "vaga": "PCD",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 102,
-    "nome": "ANTONIO CARLOS COSTA DE JESUS",
-    "tipo": "MARIDO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 102,
-    "nome": "ANNE CAROLINE NASCIMENTO COSTA",
-    "tipo": "FILHA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 102,
-    "nome": "ADRYELLE CRISTINE NASCIMENTO COSTA",
-    "tipo": "FILHA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 102,
-    "nome": "ANA VITORIA",
-    "tipo": "NETA",
-    "dependentes": [],
-    "vaga": "",
     "veiculo": "",
     "moto": ""
   },
@@ -3512,48 +3485,25 @@
     "apt": 103,
     "nome": "ELIZABETH CRISTINA SOUZA BARRETO",
     "tipo": "PROPRIETARIO",
-    "dependentes": [],
+    "dependentes": [
+      {
+        "nome": "HAROLDO DE ALBURQUERQUE",
+        "tipo": "ESPOSO"
+      },
+      {
+        "nome": "FELIPE SOUZA BARRETO",
+        "tipo": ""
+      },
+      {
+        "nome": "TARCISIO BARRETO",
+        "tipo": "NETO"
+      },
+      {
+        "nome": "ANA JULIA",
+        "tipo": "NETA"
+      }
+    ],
     "vaga": "PCD",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 103,
-    "nome": "HAROLDO DE ALBURQUERQUE",
-    "tipo": "ESPOSO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 103,
-    "nome": "FELIPE SOUZA BARRETO",
-    "tipo": "",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 103,
-    "nome": "TARCISIO BARRETO",
-    "tipo": "NETO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 103,
-    "nome": "ANA JULIA",
-    "tipo": "NETA",
-    "dependentes": [],
-    "vaga": "",
     "veiculo": "",
     "moto": ""
   },
@@ -3562,28 +3512,17 @@
     "apt": 104,
     "nome": "CARLOS ALBERTO MORA DE SOUSA",
     "tipo": "PROPRIETARIO",
-    "dependentes": [],
+    "dependentes": [
+      {
+        "nome": "SUYANE BARRETO FERREIRA",
+        "tipo": "ESPOSA"
+      },
+      {
+        "nome": "ALLANA MOURA DE SOUZA",
+        "tipo": "FILHA"
+      }
+    ],
     "vaga": 0,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 104,
-    "nome": "SUYANE BARRETO FERREIRA",
-    "tipo": "ESPOSA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 104,
-    "nome": "ALLANA MOURA DE SOUZA",
-    "tipo": "FILHA",
-    "dependentes": [],
-    "vaga": "",
     "veiculo": "",
     "moto": ""
   },
@@ -3592,38 +3531,21 @@
     "apt": 107,
     "nome": "MARISE SALLES MENDONCA",
     "tipo": "LOCATARIO",
-    "dependentes": [],
+    "dependentes": [
+      {
+        "nome": "MARISE SALLES MENDONCA MARINHO",
+        "tipo": "IRMÃ"        
+      },
+      {
+        "nome": "ISIS MARINHO",
+        "tipo": "SOBRINHA"
+      },
+      {
+        "nome": "MARLENE SALLES MENDONCA",
+        "tipo": "IRMÃ"
+      }
+    ],
     "vaga": 0,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 107,
-    "nome": "MARISE SALLES MENDONCA MARINHO",
-    "tipo": "IRMÃ",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 107,
-    "nome": "ISIS MARINHO",
-    "tipo": "SOBRINHA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 107,
-    "nome": "MARLENE SALLES MENDONCA",
-    "tipo": "IRMÃ",
-    "dependentes": [],
-    "vaga": "",
     "veiculo": "",
     "moto": ""
   },
@@ -3632,38 +3554,21 @@
     "apt": 108,
     "nome": "ALINE JORDÃO DE OLIVEIRA",
     "tipo": "PROPRIETARIO",
-    "dependentes": [],
+    "dependentes": [
+      {      
+        "nome": "ALINE ANDRADE OLIVEIRA",
+        "tipo": "COMPANHEIRA"
+      },
+      {     
+        "nome": "SELMA JORDAO DE OLIVEIRA",
+        "tipo": "MAE"
+      },
+      {
+        "nome": "MARIA LOURDES OLIVEIRA",
+       "tipo": "SOGRA"
+      }
+    ],
     "vaga": "PCD",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 108,
-    "nome": "ALINE ANDRADE OLIVEIRA",
-    "tipo": "COMPANHEIRA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 108,
-    "nome": "SELMA JORDAO DE OLIVEIRA",
-    "tipo": "MAE",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 108,
-    "nome": "MARIA LOURDES OLIVEIRA",
-    "tipo": "SOGRA",
-    "dependentes": [],
-    "vaga": "",
     "veiculo": "",
     "moto": ""
   },
@@ -3672,18 +3577,13 @@
     "apt": 109,
     "nome": "ANDREA DA SILVA CASADONTE",
     "tipo": "PROPRIETARIO",
-    "dependentes": [],
+    "dependentes": [
+      {
+        "nome": "GUSTAVO LIMA DA COSTA NEVES",
+        "tipo": "COMPANHEIRO"
+      }
+    ],
     "vaga": "PCD",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 109,
-    "nome": "GUSTAVO LIMA DA COSTA NEVES",
-    "tipo": "COMPANHEIRO",
-    "dependentes": [],
-    "vaga": "",
     "veiculo": "",
     "moto": ""
   },
@@ -3692,2978 +3592,1858 @@
     "apt": 110,
     "nome": "MATTHEWS MARINS CESARIO THINNES",
     "tipo": "PROPRIETARIO",
-    "dependentes": [],
-    "vaga": 0,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 110,
-    "nome": "DAISE MARINS CESARIO THINNES",
-    "tipo": "MAE",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 110,
-    "nome": "LORENA FITTIPALDI CYSNEIROS",
-    "tipo": "ESPOSA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 110,
-    "nome": "RONALDO THINNES",
-    "tipo": "PAI",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 110,
-    "nome": "LUZIA MESQUITA",
-    "tipo": "MADRASTA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": "",
-    "apt": 201,
-    "nome": "LUANA DOS SANTOS COSTA",
-    "tipo": "PROPRIETARIO",
-    "dependentes": [],
-    "vaga": 0,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 202,
-    "nome": "GILMARA HELENA VICENTE",
-    "tipo": "PROPRIETARIO",
-    "dependentes": [],
-    "vaga": 1,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 202,
-    "nome": "VILMA VICENTE",
-    "tipo": "IRMÃ",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 203,
-    "nome": "GILMARA HELENA VICENTE",
-    "tipo": "PRORIETARIO",
-    "dependentes": [],
-    "vaga": "PCD",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 203,
-    "nome": "VILMA VICENTE",
-    "tipo": "IRMÃ",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 204,
-    "nome": "DAYANNE GOMES PACHECO",
-    "tipo": "PROPRIETARIO",
-    "dependentes": [],
-    "vaga": 0,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 204,
-    "nome": "ANDREA GOMES DA SILVA",
-    "tipo": "MAE",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 204,
-    "nome": "ANA PAULA GOMES DE SOUZA PERES",
-    "tipo": "TIA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 204,
-    "nome": "ANA LETICIA GOMES DE SOUZA PERES",
-    "tipo": "PRIMA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 204,
-    "nome": "JOAO MARCOS",
-    "tipo": "IRMAO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 204,
-    "nome": "CAROL ADNET",
-    "tipo": "IRMA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 205,
-    "nome": "MARIA DE OLIVEIRA VILLAS BOAS",
-    "tipo": "PROPRIETARIO",
-    "dependentes": [],
-    "vaga": 0,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 205,
-    "nome": "JAMILY ARAUJO VILLAS BOAS",
-    "tipo": "SOBRINHA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 205,
-    "nome": "JONATAS PIRES VILLAS BOAS",
-    "tipo": "SOBRINHO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 205,
-    "nome": "ARIDENILSON VILLAS BOAS",
-    "tipo": "PRIMO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 205,
-    "nome": "MONICA DE OLIVEIRA VILLAS BOAS",
-    "tipo": "IRMA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 205,
-    "nome": "ATAERCE VILLAS BOAS JUNIOR",
-    "tipo": "",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 206,
-    "nome": "",
-    "tipo": "",
-    "dependentes": [],
-    "vaga": 0,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 207,
-    "nome": "",
-    "tipo": "",
-    "dependentes": [],
-    "vaga": 0,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 208,
-    "nome": "BARBARA DE SOUZA PENEDO VARGAS",
-    "tipo": "PROPRIETARIO",
-    "dependentes": [],
-    "vaga": "PCD",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": "",
-    "apt": "",
-    "nome": "ELIEL GAMA FERREIRA ALEXANDRINO",
-    "tipo": "ESPOSO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 209,
-    "nome": "CAROLINE GARCIA SALGADO",
-    "tipo": "PROPRIETARIO",
-    "dependentes": [],
-    "vaga": 1,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 209,
-    "nome": "RENATO SOARES DA SILVA",
-    "tipo": "ESPOSA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 209,
-    "nome": "ARTHUR TAVARES SOARES",
-    "tipo": "FILHO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 209,
-    "nome": "GABRIELA TAVARES",
-    "tipo": "ESPOSA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 210,
-    "nome": "MARIA DORIS DAY MOISES DE SOUSA",
-    "tipo": "PROPRIETARIO",
-    "dependentes": [],
-    "vaga": 0,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 211,
-    "nome": "LARISSA NOBREGA DA SILVA",
-    "tipo": "LOCATARIO",
-    "dependentes": [],
-    "vaga": 0,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 211,
-    "nome": "DANIEL GALANTE CARDOSO",
-    "tipo": "SOBRINHO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 212,
-    "nome": "SUELI GLORIA ALVES FARIA DA SILVA",
-    "tipo": "PROPRIETARIO",
-    "dependentes": [],
-    "vaga": 0,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 212,
-    "nome": "FABIANO FARIAS DA SILVA",
-    "tipo": "FILHO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 301,
-    "nome": "JOACIL ALVES DE OLIVEIRA",
-    "tipo": "PROPRIETARIO",
-    "dependentes": [],
-    "vaga": 0,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 301,
-    "nome": "GUILHEMRE ALVES DE SOUSA",
-    "tipo": "FILHO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 301,
-    "nome": "JOAO VICTOR LACERDA DE ALMEIDA",
-    "tipo": "IRMAO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 301,
-    "nome": "RITA DE CASSIA DA SILVA DE SA",
-    "tipo": "ESPOSA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 301,
-    "nome": "RUDY MARCELL TEIXEIRA DE MOURA",
-    "tipo": "IRMAO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 302,
-    "nome": "JOSE PHELLIPE LEITE DA SILVA",
-    "tipo": "PROPRIETARIO",
-    "dependentes": [],
-    "vaga": 1,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 302,
-    "nome": "PATRICIA PEREIRA MARTINS DA SILVA",
-    "tipo": "ESPOSA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 302,
-    "nome": "GABRIEL MARTINS DA SILVA",
-    "tipo": "FILHA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 303,
-    "nome": "PEDRO PAULO ALEXANDRINO JUNIOR",
-    "tipo": "PROPRIETARIO",
-    "dependentes": [],
-    "vaga": 1,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 303,
-    "nome": "NICOLAS DE OLIVEIRA ALEXANDRINO",
-    "tipo": "FILHO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 303,
-    "nome": "TAINARA DE OLIVEIRA VIEIRA",
-    "tipo": "ESPOSA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 304,
-    "nome": "HYLDO PALMA CORREIA JUNIOR",
-    "tipo": "PROPRIETARIO",
-    "dependentes": [],
-    "vaga": 0,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 305,
-    "nome": "SANDYCLEI SOARES DE JESUS",
-    "tipo": "PROPRIETARIO",
-    "dependentes": [],
-    "vaga": 0,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 305,
-    "nome": "CAMILA SANTOS DE SOARES",
-    "tipo": "ESPOSA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 306,
-    "nome": "DENISE ANTONIO DO ROSARIO COELHO",
-    "tipo": "PROPRIETARIO",
-    "dependentes": [],
-    "vaga": 0,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 306,
-    "nome": "HIGOR JESUS DO NASCIMENTO",
-    "tipo": "ESPOSO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 307,
-    "nome": "MARIANA MONTEIRO DE BARROS",
-    "tipo": "PROPRIETARIO",
-    "dependentes": [],
-    "vaga": 0,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 307,
-    "nome": "MARCELO GABRIEL MONTEIRO DE BARROS MACIEL",
-    "tipo": "IRMÃO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 308,
-    "nome": "",
-    "tipo": "",
-    "dependentes": [],
-    "vaga": 1,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 309,
-    "nome": "ROSANGELA GOUVEA MITJANS",
-    "tipo": "PROPRIETARIO",
-    "dependentes": [],
-    "vaga": 1,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 309,
-    "nome": "DANDARA MITJONS MENDES",
-    "tipo": "FILHA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 309,
-    "nome": "BRUNO TEIXEIRA DE SOUZA",
-    "tipo": "GENRO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 309,
-    "nome": "ANDREA CRISTINA TEIXEIRA DE SOUZA",
-    "tipo": "MAE",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 310,
-    "nome": "RAFAELLE CRISTINI ROCHA E SILVA",
-    "tipo": "PROPRIETARIO",
-    "dependentes": [],
-    "vaga": 0,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 310,
-    "nome": "MARCIO ANDRE DE FIGUEIREDO BRASIL JUNIOR",
-    "tipo": "CONJUGE",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 311,
-    "nome": "ANA MOURA SANTOS COSTA",
-    "tipo": "PROPRIETARIO",
-    "dependentes": [],
-    "vaga": 0,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 312,
-    "nome": "RAYSSA CRISTINA ALVES FRANCISCO",
-    "tipo": "PROPRIETARIO",
-    "dependentes": [],
-    "vaga": 0,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 312,
-    "nome": "CARLOS EDUARDO COSTA FERREIRA",
-    "tipo": "ESPOSO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 312,
-    "nome": "RYAN FRANCISCO LORENZO",
-    "tipo": "SOBRINHO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 312,
-    "nome": "ELIANE DOS SANTOS ALVES FRANCISCO",
-    "tipo": "MAE",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 312,
-    "nome": "RAYANE CRISTINA ALVES FRANCISCO",
-    "tipo": "",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 401,
-    "nome": "ROBERVAL SANTANA OLIVEIRA",
-    "tipo": "PROPRIETARIO",
-    "dependentes": [],
-    "vaga": 0,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 401,
-    "nome": "LAYSSA MIRELLE SOUZA OLIVEIRA",
-    "tipo": "ESPOSA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 402,
-    "nome": "FERNANDO CESAR DA SILVA",
-    "tipo": "PROPRIETARIO",
-    "dependentes": [],
-    "vaga": 1,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 402,
-    "nome": "ALINE BEZERRA DE SANTANA",
-    "tipo": "ESPOSA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 402,
-    "nome": "JEANNE SANTANA DA SILVA",
-    "tipo": "FILHA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 402,
-    "nome": "ISABELA SANTANA DA SILVA",
-    "tipo": "NETA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 402,
-    "nome": "YURI SANTANA DA SILVA",
-    "tipo": "NETO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 403,
-    "nome": "",
-    "tipo": "",
-    "dependentes": [],
-    "vaga": 1,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 404,
-    "nome": "RAFAELA BAZILIO DA SILVA DOMINGOS",
-    "tipo": "PROPRIETARIO",
-    "dependentes": [],
-    "vaga": 0,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 404,
-    "nome": "MARCOS VINICIUS DOS SANTOS DOMINGOS",
-    "tipo": "ESPOSO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 405,
-    "nome": "ANDRESSA FREITAS SILVA",
-    "tipo": "PROPRIETARIO",
-    "dependentes": [],
-    "vaga": 0,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 405,
-    "nome": "STEVERSON DE JESUS BARCELOS",
-    "tipo": "ESPOSO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 406,
-    "nome": "",
-    "tipo": "",
-    "dependentes": [],
-    "vaga": 0,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 407,
-    "nome": "VALERIA LOUREIRO FERREIRA NOBRE",
-    "tipo": "PROPRIETARIO",
-    "dependentes": [],
-    "vaga": 0,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 407,
-    "nome": "JORGE ROBERTO FERREIRA NEVES",
-    "tipo": "FILHO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 407,
-    "nome": "CLAUDIA VALERIA FERREIRA NETO",
-    "tipo": "FILHO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 408,
-    "nome": "ULISSES LEITE NOVAES BASILIO",
-    "tipo": "PROPRIETARIO",
-    "dependentes": [],
-    "vaga": 1,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 408,
-    "nome": "DANIELE DA SILVA FARIA",
-    "tipo": "DIVORCIADA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 408,
-    "nome": "KAUA FARIA NOVAES",
-    "tipo": "FILHO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 408,
-    "nome": "MATHEUS FARIAS NOVAES",
-    "tipo": "FILHO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 409,
-    "nome": "",
-    "tipo": "",
-    "dependentes": [],
-    "vaga": 1,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 410,
-    "nome": "HELENA PEIXOTO BONIFACIO",
-    "tipo": "PROPRIETARIO",
-    "dependentes": [],
-    "vaga": 0,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 410,
-    "nome": "CARLOS ROBERTO DO COUTO",
-    "tipo": "NAMORADO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 411,
-    "nome": "JANAIR DE ARAUJO CANDIDO",
-    "tipo": "PROPRIETARIO",
-    "dependentes": [],
-    "vaga": 0,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 411,
-    "nome": "MARIO AURELIO ESCARATE POBLETE",
-    "tipo": "CONJUGE",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 411,
-    "nome": "REBECA AURELIO DE ARAUJO ESCARETE POBLETE",
-    "tipo": "FILHA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 412,
-    "nome": "MATHEUS GOMES RIBEIRO",
-    "tipo": "PROPRIETARIO",
-    "dependentes": [],
-    "vaga": 0,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 412,
-    "nome": "YNGRID MARQUES DO COUTO LIMA",
-    "tipo": "NAMORADA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 412,
-    "nome": "IDERALDO RIBEIRO",
-    "tipo": "PAI",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 412,
-    "nome": "FATIMA REGINA GOMES RIBEIRO",
-    "tipo": "MAE",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 412,
-    "nome": "CAIO FELIPE GOMES RIBEIRO",
-    "tipo": "IRMAO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 501,
-    "nome": "RAMON VIANNA FERNANDES PEDRO",
-    "tipo": "PROPRIETARIO",
-    "dependentes": [],
-    "vaga": 0,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": "",
-    "apt": "",
-    "nome": "ANA CAROLINA MORAIS LUCAS VIANNA",
-    "tipo": "ESPOSA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 502,
-    "nome": "GILBERTO VIEIRA CARDOSO",
-    "tipo": "PROPRIETARIO",
-    "dependentes": [],
-    "vaga": 1,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 502,
-    "nome": "THAYNA SANTOS CURADO",
-    "tipo": "ESPOSA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 502,
-    "nome": "YURI RAMOS CARDOSO",
-    "tipo": "FILHO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 502,
-    "nome": "THAMIRIS SANTOS CURADO",
-    "tipo": "CUNHADA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 503,
-    "nome": "GUSTAVO GARCIA RODRIGUES",
-    "tipo": "PROPRIETARIO",
-    "dependentes": [],
-    "vaga": 1,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 503,
-    "nome": "GUSTAVO CORREIA RODRIGUES",
-    "tipo": "",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 503,
-    "nome": "THAISA DUTRA VIDAL",
-    "tipo": "",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 503,
-    "nome": "BERNARDO VIDAL RODRIGUES",
-    "tipo": "",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 503,
-    "nome": "MARTHA LUCIA DUTRA VIDAL",
-    "tipo": "",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 504,
-    "nome": "LETICIA DE ABREU DA SILVA DAMASCENO",
-    "tipo": "PROPRIETARIO",
-    "dependentes": [],
-    "vaga": 0,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 504,
-    "nome": "CEZAR ROCHA DAMASCENO JUNIOR",
-    "tipo": "ESPOSO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 504,
-    "nome": "LECI HONORINA DA SILVA",
-    "tipo": "MAE",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 504,
-    "nome": "ADAILTON DE ABREU DA SILVA",
-    "tipo": "",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 504,
-    "nome": "LUDMILA DE ABREU",
-    "tipo": "IRMA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 504,
-    "nome": "BRUNO RIBA DA ROCHA",
-    "tipo": "",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 505,
-    "nome": "JOSE SEVERINO DOS SANTOS",
-    "tipo": "PROPRIETARIO",
-    "dependentes": [],
-    "vaga": 0,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 505,
-    "nome": "ANA JULIA MACHADO SANTOS",
-    "tipo": "FILHA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 505,
-    "nome": "MIGUEL MARIA DOS SANTOS",
-    "tipo": "FILHO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 505,
-    "nome": "VALQUIRIA DE MELO GOMES",
-    "tipo": "",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 506,
-    "nome": "GABRIELA FARIA DE SOUSA",
-    "tipo": "PROPRIETARIO",
-    "dependentes": [],
-    "vaga": 0,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 507,
-    "nome": "VAGNER LUIS DA SILVA",
-    "tipo": "PROPRIETARIO",
-    "dependentes": [],
-    "vaga": 0,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 507,
-    "nome": "GUSTAVO MENEZES COSTA DA SILVA",
-    "tipo": "FILHO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 507,
-    "nome": "BERNARDO MENEZES SANTOS DA SILVA",
-    "tipo": "FILHO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 507,
-    "nome": "LUANA YOLANDA DE MENEZES SANTOS",
-    "tipo": "ESPOSA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 508,
-    "nome": "DANIEL BATISTA PEREIRA",
-    "tipo": "PROPRIETARIO",
-    "dependentes": [],
-    "vaga": 1,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 508,
-    "nome": "SUELEN CRISTINA FERREIRA DA SILVA BATISTA PEREIRA",
-    "tipo": "ESPOSA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 508,
-    "nome": "MARIA EDUARDA FERREIRA DOS SANTOS",
-    "tipo": "FILHA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 509,
-    "nome": "MATHEUS JHONATAS DE OLIVEIRA PINHAL",
-    "tipo": "PROPRIETARIO",
-    "dependentes": [],
-    "vaga": 1,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 509,
-    "nome": "LETICIA CRISTIANE LABUTO REGO",
-    "tipo": "ESPOSA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 509,
-    "nome": "WENDEL MARCELO DA SILVA PINHAL",
-    "tipo": "PAI",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 510,
-    "nome": "LETICIA COSTA FERREIRA DE PAULA DA SILVA",
-    "tipo": "PROPRIETARIO",
-    "dependentes": [],
-    "vaga": 0,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 510,
-    "nome": "PATRICK LEVI CHEKER RIBAS",
-    "tipo": "ESPOSO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 510,
-    "nome": "DANIELLE COSTA FERREIRA DE PAULA",
-    "tipo": "MAE",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 510,
-    "nome": "VALDECI FERREIRA DA SILVA",
-    "tipo": "PAI",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 511,
-    "nome": "REBECCA ALMEIDA DO NASCIMENTO",
-    "tipo": "PROPRIETARIO",
-    "dependentes": [],
-    "vaga": 0,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 511,
-    "nome": "JOAO VENANCIO DAMACENA PAULO",
-    "tipo": "ESPOSO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 512,
-    "nome": "MARCELLY MARINHO DOS SANTOS",
-    "tipo": "PROPRIETARIO",
-    "dependentes": [],
-    "vaga": 0,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 512,
-    "nome": "MONIQUE CHARLES DA SILVA MARINHO",
-    "tipo": "MAE",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 512,
-    "nome": "THEO MARINHO XAVIER",
-    "tipo": "FILHA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 512,
-    "nome": "SONIA MARIA DA SILVA",
-    "tipo": "AVO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 512,
-    "nome": "MYLLENA CHRISTINE MARINHO",
-    "tipo": "IRMAO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 601,
-    "nome": "VINICIUS FERREIRA DE BARROS ALBUDANE",
-    "tipo": "LOCATARIO",
-    "dependentes": [],
-    "vaga": 0,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 601,
-    "nome": "LUCAS BARSALINE DISIEVI",
-    "tipo": "CONJUGE",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 601,
-    "nome": "NICOLLY FERREIRA DE BARROS ALBUDANCE",
-    "tipo": "IRMA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 602,
-    "nome": "DIEGO MANSO DE NEGREIROS",
-    "tipo": "PROPRIETARIO",
-    "dependentes": [],
-    "vaga": 1,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 603,
-    "nome": "",
-    "tipo": "",
-    "dependentes": [],
-    "vaga": 1,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 604,
-    "nome": "ALESSANDRA DE CASSIA DA SILVA BARROS",
-    "tipo": "PROPRIETARIO",
-    "dependentes": [],
-    "vaga": 0,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 605,
-    "nome": "NATALIA RIBEIRO DE PAULA",
-    "tipo": "LOCATARIO",
-    "dependentes": [],
-    "vaga": 0,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 605,
-    "nome": "LUAN COUTINHO",
-    "tipo": "NAMORADO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 605,
-    "nome": "RITA DE CASSIA BARBOZA",
-    "tipo": "AVO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 605,
-    "nome": "ELAINE BARBOZA GOMES",
-    "tipo": "MAE",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 606,
-    "nome": "FLAVIA MONTEIRO DE SOUZA",
-    "tipo": "PROPRIETARIO",
-    "dependentes": [],
-    "vaga": 0,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 606,
-    "nome": "MARIA DE LOURDES DA SILVA SOUZA",
-    "tipo": "MAE",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 606,
-    "nome": "FRANCISCO MONTEIRO DE SOUZA FILHO",
-    "tipo": "PAI",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 606,
-    "nome": "TARCISO TRAVASSOS RABELLO",
-    "tipo": "NAMORADO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 607,
-    "nome": "RAPHAEL JOSE FERREIRA PACHECO DE SOUSA",
-    "tipo": "PROPRIETARIO",
-    "dependentes": [],
-    "vaga": 0,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 607,
-    "nome": "SHEILA THAMIRIS VIEIRA",
-    "tipo": "NOIVA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 608,
-    "nome": "MARIO SEBASTIAO PAZ DOS SANTOS",
-    "tipo": "PROPRIETARIO",
-    "dependentes": [],
-    "vaga": 1,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 608,
-    "nome": "JESSICA OLIVEIRA DOS SANTOS",
-    "tipo": "ESPOSA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 608,
-    "nome": "LUIZA FERREIRA PAZ DOS SANTOS",
-    "tipo": "FILHA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 608,
-    "nome": "DALVANIRA OLIVEIRA DOS SANTOS",
-    "tipo": "SOGRA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 609,
-    "nome": "KALLENE MOTHE BARROS",
-    "tipo": "PROPRIETARIO",
-    "dependentes": [],
-    "vaga": 1,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 609,
-    "nome": "GABRIEL LEONARDO BRITO SANTOS",
-    "tipo": "MARIDO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 610,
-    "nome": "SIMONE DE FIGUEIREDO ALVES",
-    "tipo": "PROPRIETARIO",
-    "dependentes": [],
-    "vaga": 0,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 610,
-    "nome": "ISABELA ALVES BRITO",
-    "tipo": "FILHA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 610,
-    "nome": "GABRIELA ALVES CASTANHEIRA",
-    "tipo": "FILHA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 610,
-    "nome": "SILVIO DOMINGUES ALVES",
-    "tipo": "PAI",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 611,
-    "nome": "ANNA PAULA VIEIRA GRALHEIRO GOMES",
-    "tipo": "LOCATARIO",
-    "dependentes": [],
-    "vaga": 0,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 611,
-    "nome": "TACIANA DIAS",
-    "tipo": "AMIGA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 611,
-    "nome": "DIEGO GOMES",
-    "tipo": "IRMAO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 612,
-    "nome": "DEISE BATISTA DA SILVA GIBIN",
-    "tipo": "PROPRIETARIO",
-    "dependentes": [],
-    "vaga": 0,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 612,
-    "nome": "WILSON BaptISTA CALDEIRO",
-    "tipo": "NAMORADO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 701,
-    "nome": "WALESSA NOEMIA SILVA PEREIRA",
-    "tipo": "PROPRIETARIO",
-    "dependentes": [],
-    "vaga": 0,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 701,
-    "nome": "LUISE PEREIRA",
-    "tipo": "FILHA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 702,
-    "nome": "MARCOS TADEU FERNANDES PEDRO",
-    "tipo": "PROPRIETARIO",
-    "dependentes": [],
-    "vaga": 1,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 702,
-    "nome": "ELIANE RAMOS",
-    "tipo": "ESPOSA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 702,
-    "nome": "DIOGO VIANNA FERNANDES",
-    "tipo": "FILHO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 702,
-    "nome": "LIDIANE PEREIRA",
-    "tipo": "NORA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 702,
-    "nome": "HELENA RAMOS",
-    "tipo": "NETA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 703,
-    "nome": "ELIAS DE SOUZA",
-    "tipo": "PROPRIETARIO",
-    "dependentes": [],
-    "vaga": 1,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 703,
-    "nome": "RAQUEL DA CONCEICAO GOMES DE SOUZA",
-    "tipo": "ESPOSA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 703,
-    "nome": "VIVIAN GOMES DE SOUZA",
-    "tipo": "FILHA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 703,
-    "nome": "VINICIUS GOMES DE SOUZA",
-    "tipo": "FILHO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 703,
-    "nome": "KEYLA DE OLIVEIRA DE SOUZA",
-    "tipo": "FILHA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 703,
-    "nome": "SAUL DE OLIVEIRA SOUZA",
-    "tipo": "NETO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 704,
-    "nome": "VICTORIA MARTINS FREITAS DA SILVA",
-    "tipo": "PROPRIETARIO",
-    "dependentes": [],
-    "vaga": 0,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 704,
-    "nome": "SONIA MARTINS",
-    "tipo": "MAE",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 704,
-    "nome": "LUIZ CARLOS",
-    "tipo": "PAI",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 704,
-    "nome": "GUILHERME SOARES",
-    "tipo": "NAMORADO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 704,
-    "nome": "CLEYDSON COSTA DE ANDRADE SILVA",
-    "tipo": "PRIMO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 705,
-    "nome": "JOSE VITOR RANGEL ORTIZ",
-    "tipo": "PROPRIETARIO",
-    "dependentes": [],
-    "vaga": 0,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 705,
-    "nome": "ANDRESSA KIFFER CALAVES RANGEL ORTIZ",
-    "tipo": "ESPOSA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 705,
-    "nome": "BENICIO KIFFER CALAVES RANGEL ORTIZ",
-    "tipo": "FILHO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 705,
-    "nome": "JULIA KIFFER CALAVES SILVA",
-    "tipo": "SOBRINHA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 706,
-    "nome": "EDGARD LINDESAY NETO",
-    "tipo": "PROPRIETARIO",
-    "dependentes": [],
-    "vaga": 0,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 706,
-    "nome": "ARTHUR OLIVEIRA LINDESAY",
-    "tipo": "FILHA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 706,
-    "nome": "SUELLEN CARVALHO DA SILVA",
-    "tipo": "NAMORADA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 706,
-    "nome": "IUNES LINDESAY",
-    "tipo": "PAI",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 706,
-    "nome": "LAURA LINDESAY",
-    "tipo": "FILHA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 707,
-    "nome": "GABRIELA LOROZA BATISTA DE MARCOS",
-    "tipo": "PROPRIETARIO",
-    "dependentes": [],
-    "vaga": 0,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 707,
-    "nome": "LUCAS ALVES DE CAMPOS NEVES DOS SANTOS",
-    "tipo": "ESPOSO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 707,
-    "nome": "GIOVANNA LOROZA BATISTA DE MARCOS",
-    "tipo": "IRMA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 708,
-    "nome": "ISAAC DE SOUZA DANTAS",
-    "tipo": "PROPRIETARIO",
-    "dependentes": [],
-    "vaga": 1,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 708,
-    "nome": "RENATA DIAS DA SILVA DANTAS",
-    "tipo": "ESPOSA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 708,
-    "nome": "REBECA DIAS DANTAS",
-    "tipo": "FILHA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 708,
-    "nome": "IASMIN DIAS DANTAS",
-    "tipo": "FILHA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 709,
-    "nome": "VINICIUS LEITE DE PAULA",
-    "tipo": "PROPRIETARIO",
-    "dependentes": [],
-    "vaga": 1,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 709,
-    "nome": "LILIAN MENDONCA DOS SANTOS",
-    "tipo": "ESPOSA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 709,
-    "nome": "SOLANGE DE SALLES MENDONCA",
-    "tipo": "SOGRA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 709,
-    "nome": "",
-    "tipo": "PAI",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 710,
-    "nome": "MARIA ELENI DA SILVA RIBEIRO",
-    "tipo": "PROPRIETARIO",
-    "dependentes": [],
-    "vaga": 0,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 710,
-    "nome": "JOSE MAURICIO DA SILVA RIBEIRO",
-    "tipo": "IRMAO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 710,
-    "nome": "FLAVIA EVELIN DE OLIVEIRA RIBEIRO",
-    "tipo": "CUNHADA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 710,
-    "nome": "LARISSA DE OLIVEIRA RIBEIRO",
-    "tipo": "SOBRINHA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 710,
-    "nome": "GIULIA DE OLIVEIRA RIBEIRO",
-    "tipo": "SOBRINHA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 710,
-    "nome": "MATHEUS DE OLIVEIRA RIBEIRO",
-    "tipo": "SOBRINHO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 711,
-    "nome": "",
-    "tipo": "",
-    "dependentes": [],
-    "vaga": 0,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 712,
-    "nome": "WANDERLEY GOMES DA SILVA",
-    "tipo": "PROPRIETARIO",
-    "dependentes": [],
-    "vaga": 0,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 712,
-    "nome": "MARIA DA PENHA DOS SANTOS SILVA",
-    "tipo": "ESPOSA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 712,
-    "nome": "MANUEL SANTOS DA SILVA",
-    "tipo": "FILHO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 712,
-    "nome": "MANUELLE SANTOS GOMES DA SILVA",
-    "tipo": "FILHA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 712,
-    "nome": "MARIA SOFIA OLIVEIRA GOMES",
-    "tipo": "NETA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 801,
-    "nome": "CAROLINE PASSARELLI LEAL",
-    "tipo": "LOCATARIO",
-    "dependentes": [],
-    "vaga": 0,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 801,
-    "nome": "ANA PAULA PASSARELLI",
-    "tipo": "IRMA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 801,
-    "nome": "ELTON MENDES MOREIRA",
-    "tipo": "CUNHADA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 801,
-    "nome": "ALICYA PASSARELLI",
-    "tipo": "SOBRINHA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 801,
-    "nome": "ANA BEATRIZ PASSARELLI",
-    "tipo": "SOBRINHA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 801,
-    "nome": "MAGNO HENRIQUE",
-    "tipo": "SOBRINHO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 801,
-    "nome": "JORGE LEAL",
-    "tipo": "PAI",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 802,
-    "nome": "PRISCILA ROCHELLE BARBOSA DA SILVA",
-    "tipo": "PROPRIETARIO",
-    "dependentes": [],
-    "vaga": 1,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 802,
-    "nome": "NELSON CESAR OSORIO NETO",
-    "tipo": "CONJUGE",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 803,
-    "nome": "BRUNO GONCALVES PEREIRA",
-    "tipo": "PROPRIETARIO",
-    "dependentes": [],
-    "vaga": 1,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 803,
-    "nome": "CINTHIA BATISTA AZEREDO",
-    "tipo": "ESPOSA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 804,
-    "nome": "FILIPE RANIERY DO NASCIMENTO",
-    "tipo": "PROPRIETARIO",
-    "dependentes": [],
-    "vaga": 0,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 804,
-    "nome": "THAINA DOS SANTOS DELCROTE",
-    "tipo": "",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 805,
-    "nome": "",
-    "tipo": "",
-    "dependentes": [],
-    "vaga": 0,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 806,
-    "nome": "KEYLA DE CASTRO DA SILVA",
-    "tipo": "PROPRIETARIO",
-    "dependentes": [],
-    "vaga": 0,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 806,
-    "nome": "LEANDRO PERRI SPINELLI",
-    "tipo": "ESPOSO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 806,
-    "nome": "THEO DE CASTRO SPINELLI",
-    "tipo": "FILHO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 806,
-    "nome": "CRISTIANE DA SILVA SIQUEIRA",
-    "tipo": "PRIMA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 807,
-    "nome": "MAYCON RIBEIRO DA SILVA",
-    "tipo": "PROPRIETARIO",
-    "dependentes": [],
-    "vaga": 0,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 807,
-    "nome": "RAQUEL PEREIRA",
-    "tipo": "NOIVA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 808,
-    "nome": "JOAO LUIZ VIEIRA DA SILVA",
-    "tipo": "PROPRIETARIO",
-    "dependentes": [],
-    "vaga": 1,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 808,
-    "nome": "ANA CAROLINA OGG DA CRUZ",
-    "tipo": "ESPOSA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 808,
-    "nome": "ANA LUIZA OGG VIEIRA",
-    "tipo": "FILHO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 808,
-    "nome": "RUBENITA CARDOSO OGG DA CRUZ",
-    "tipo": "SOGRA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 808,
-    "nome": "LUCIANA FERRAZ",
-    "tipo": "IRMA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 809,
-    "nome": "MILENA AMORIM DA SILVEIRA DUTRA",
-    "tipo": "PROPRIETARIO",
-    "dependentes": [],
-    "vaga": 1,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 809,
-    "nome": "PAULO FERNANDO DUTRA JUNIOR",
-    "tipo": "ESPOSA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 809,
-    "nome": "MARIA CLARA DA SILVEIRA SANTOS",
-    "tipo": "FILHA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 809,
-    "nome": "MARINETE AMORIM ANASTACIO",
-    "tipo": "MAE",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 809,
-    "nome": "ROSANGELA RODRIGUES CAMPOS",
-    "tipo": "SOGRA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 810,
-    "nome": "MICHELLE BENTO TEIXEIRA",
-    "tipo": "PROPRIETARIO",
-    "dependentes": [],
-    "vaga": 0,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 810,
-    "nome": "ROEMARY BENTO TEIXEIRA",
-    "tipo": "MAE",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 811,
-    "nome": "SHIRLENE CONCEICAO BAYMA DA SILVA",
-    "tipo": "PROPRIETARIO",
-    "dependentes": [],
-    "vaga": 0,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 811,
-    "nome": "RAYANE CARMO DA SILVA",
-    "tipo": "ESPOSA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 811,
-    "nome": "CALAB CONCEICAO DA SILVA",
-    "tipo": "IRMAO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 811,
-    "nome": "DIOGO SIQUEIRA MOREIRA",
-    "tipo": "IRMAO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 812,
-    "nome": "NATANI MARTINS DE FREITAS",
-    "tipo": "PROPRIETARIO",
-    "dependentes": [],
-    "vaga": 0,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 901,
-    "nome": "RODRIGO CORREA DE LACERDA",
-    "tipo": "PROPRIETARIO",
-    "dependentes": [],
-    "vaga": 0,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 901,
-    "nome": "MARCELO SILVA DO NASCIMENTO",
-    "tipo": "ESPOSO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 901,
-    "nome": "DANIEL LUIZ NASCIMENTO DOS SANTOS",
-    "tipo": "SOBRINHO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 901,
-    "nome": "MARLENE SILVA DO NASCIMENTO",
-    "tipo": "CUNHADA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 902,
-    "nome": "CARLA DE OLIVEIRA VIEIRA",
-    "tipo": "PROPRIETARIO",
-    "dependentes": [],
-    "vaga": 1,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 903,
-    "nome": "FABIO ROSA VIANA",
-    "tipo": "PROPRIETARIO",
-    "dependentes": [],
-    "vaga": 1,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 903,
-    "nome": "MARIA HELENA BARBOSA",
-    "tipo": "ESPOSA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 903,
-    "nome": "BENICIO RODRIGUES VIANA",
-    "tipo": "FILHO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 904,
-    "nome": "JAQUELINE ALMEIDA GARCIA",
-    "tipo": "LOCATARIO",
-    "dependentes": [],
-    "vaga": 0,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 904,
-    "nome": "BERNARDO ALMEIDA GARCIA",
-    "tipo": "FILHO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 904,
-    "nome": "YASMIN OLIVEIRA GOUVEIA",
-    "tipo": "FILHA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 904,
-    "nome": "MARIA DE FATIMA ALMEIDA",
-    "tipo": "MAE",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 904,
-    "nome": "JOSE CESARIO DO ESPIRITO SANTO",
-    "tipo": "PADRASTO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 905,
-    "nome": "GILCIARA DO NASCIMENTO SILVA",
-    "tipo": "PROPRIETARIO",
-    "dependentes": [],
-    "vaga": 0,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 906,
-    "nome": "VANDERLEYA SILVA DE SOUZA",
-    "tipo": "PROPRIETARIO",
-    "dependentes": [],
-    "vaga": 0,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 906,
-    "nome": "ADRIANA SILVA DE SOUZA CAMILO",
-    "tipo": "",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 907,
-    "nome": "BRUNO MENDONCA RIBEIRO",
-    "tipo": "PROPRIETARIO",
-    "dependentes": [],
-    "vaga": 0,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 907,
-    "nome": "BARBARA WANDERLEY CAETANO",
-    "tipo": "NOIVA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 908,
-    "nome": "LYZ GASPAR GUERRA",
-    "tipo": "PROPRIETARIO",
-    "dependentes": [],
-    "vaga": 1,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 908,
-    "nome": "LUIZA GASPAR BOTELHO",
-    "tipo": "FILHA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 908,
-    "nome": "PAULO HENRIQUE ALVES DOS SANTOS",
-    "tipo": "PADRASTO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 908,
-    "nome": "DERLY GASPAR GUERRA",
-    "tipo": "MAE",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 909,
-    "nome": "PAULO GIOVANI BASTOS DA SILVA",
-    "tipo": "PROPRIETARIO",
-    "dependentes": [],
-    "vaga": 1,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 909,
-    "nome": "RAFAELLA BASTOS DA SILVA",
-    "tipo": "FILHA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 909,
-    "nome": "DEISE RODRIGUES ALVES DOS SANTOS",
-    "tipo": "NAMORADA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 909,
-    "nome": "LIDICE BASTOS DA SILVA",
-    "tipo": "MAE",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 909,
-    "nome": "CARLOS HENRIQUE BASTOS DA SILVA",
-    "tipo": "IRMAO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 909,
-    "nome": "ALESSANDRO BASTOS DA SILVA",
-    "tipo": "IRMAO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 910,
-    "nome": "GABRIELLA ALVES DIAS DA SILVA",
-    "tipo": "PROPRIETARIO",
-    "dependentes": [],
-    "vaga": 0,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 910,
-    "nome": "LARISSA MOREIRA DA SILVA",
-    "tipo": "NAMORADA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 911,
-    "nome": "RICARDO DAVID FRATTINI",
-    "tipo": "PROPRIETARIO",
-    "dependentes": [],
-    "vaga": 0,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 911,
-    "nome": "VANESSA CRISTINA MARTINS DA SILVA FRATTINI",
-    "tipo": "ESPOSA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 912,
-    "nome": "LILIAN DE FREITAS COSTA",
-    "tipo": "PROPRIETARIO",
-    "dependentes": [],
-    "vaga": 0,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 912,
-    "nome": "FABIANA TRINDADE BANDINO",
-    "tipo": "NAMORADO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
+    "dependentes": [
+      {
+        "nome": "DAISE MARINS CESARIO THINNES",
+        "tipo": "MAE"
+      },
+      {
+        "nome": "LORENA FITTIPALDI CYSNEIROS",
+        "tipo": "ESPOSA"
+      },
+      {
+        "nome": "RONALDO THINNES",
+        "tipo": "PAI"
+      },
+      {
+        "nome": "LUZIA MESQUITA",
+        "tipo": "MADRASTA"
+      }
+    ],
+    "vaga": 0,
+    "veiculo": "",
+    "moto": ""
+  },
+    {
+      "bloco": "",
+      "apt": 201,
+      "nome": "LUANA DOS SANTOS COSTA",
+      "tipo": "PROPRIETARIO",
+      "dependentes": [],
+      "vaga": 0,
+      "veiculo": "",
+      "moto": ""
+    },
+    {
+      "bloco": 2,
+      "apt": 202,
+      "nome": "GILMARA HELENA VICENTE",
+      "tipo": "PROPRIETARIO",
+      "dependentes": [
+        {
+          "nome": "VILMA VICENTE",
+          "tipo": "IRMÃ"
+        }
+      ],
+      "vaga": 1,
+      "veiculo": "",
+      "moto": ""
+    },
+    {
+      "bloco": 2,
+      "apt": 203,
+      "nome": "GILMARA HELENA VICENTE",
+      "tipo": "PRORIETARIO",
+      "dependentes": [
+        {
+          "nome": "VILMA VICENTE",
+          "tipo": "IRMÃ"
+        }
+      ],
+      "vaga": "PCD",
+      "veiculo": "",
+      "moto": ""
+    },
+    {
+      "bloco": 2,
+      "apt": 204,
+      "nome": "DAYANNE GOMES PACHECO",
+      "tipo": "PROPRIETARIO",
+      "dependentes": [
+        {
+          "nome": "ANDREA GOMES DA SILVA",
+          "tipo": "MAE"
+        },
+        {
+          "nome": "ANA PAULA GOMES DE SOUZA PERES",
+          "tipo": "TIA"
+        },
+        {
+          "nome": "ANA LETICIA GOMES DE SOUZA PERES",
+          "tipo": "PRIMA"
+        },
+        {
+          "nome": "JOAO MARCOS",
+          "tipo": "IRMAO"
+        },
+        {
+          "nome": "CAROL ADNET",
+          "tipo": "IRMA"
+        }
+      ],
+      "vaga": 0,
+      "veiculo": "",
+      "moto": ""
+    },
+    {
+      "bloco": 2,
+      "apt": 205,
+      "nome": "MARIA DE OLIVEIRA VILLAS BOAS",
+      "tipo": "PROPRIETARIO",
+      "dependentes": [
+        {
+          "nome": "JAMILY ARAUJO VILLAS BOAS",
+          "tipo": "SOBRINHA"
+        },
+        {
+          "nome": "JONATAS PIRES VILLAS BOAS",
+          "tipo": "SOBRINHO"
+        },
+        {
+          "nome": "ARIDENILSON VILLAS BOAS",
+          "tipo": "PRIMO"
+        },
+        {
+          "nome": "MONICA DE OLIVEIRA VILLAS BOAS",
+          "tipo": "IRMA"
+        },
+        {
+          "nome": "ATAERCE VILLAS BOAS JUNIOR",
+          "tipo": ""
+        }
+      ],
+      "vaga": 0,
+      "veiculo": "",
+      "moto": ""
+    },
+    {
+      "bloco": 2,
+      "apt": 206,
+      "nome": "",
+      "tipo": "",
+      "dependentes": [],
+      "vaga": 0,
+      "veiculo": "",
+      "moto": ""
+    },
+    {
+      "bloco": 2,
+      "apt": 207,
+      "nome": "",
+      "tipo": "",
+      "dependentes": [],
+      "vaga": 0,
+      "veiculo": "",
+      "moto": ""
+    },
+    {
+      "bloco": 2,
+      "apt": 208,
+      "nome": "BARBARA DE SOUZA PENEDO VARGAS",
+      "tipo": "PROPRIETARIO",
+      "dependentes": [
+        {
+          "nome": "ELIEL GAMA FERREIRA ALEXANDRINO",
+          "tipo": "ESPOSO"
+        }
+      ],
+      "vaga": "PCD",
+      "veiculo": "",
+      "moto": ""
+    },
+    {
+      "bloco": 2,
+      "apt": 209,
+      "nome": "CAROLINE GARCIA SALGADO",
+      "tipo": "PROPRIETARIO",
+      "dependentes": [
+        {
+          "nome": "RENATO SOARES DA SILVA",
+          "tipo": "ESPOSA"
+        },
+        {
+          "nome": "ARTHUR TAVARES SOARES",
+          "tipo": "FILHO"
+        },
+        {
+          "nome": "GABRIELA TAVARES",
+          "tipo": "ESPOSA"
+        }
+      ],
+      "vaga": 1,
+      "veiculo": "",
+      "moto": ""
+    },
+    {
+      "bloco": 2,
+      "apt": 210,
+      "nome": "MARIA DORIS DAY MOISES DE SOUSA",
+      "tipo": "PROPRIETARIO",
+      "dependentes": [],
+      "vaga": 0,
+      "veiculo": "",
+      "moto": ""
+    },
+    {
+      "bloco": 2,
+      "apt": 211,
+      "nome": "LARISSA NOBREGA DA SILVA",
+      "tipo": "LOCATARIO",
+      "dependentes": [
+        {
+          "nome": "DANIEL GALANTE CARDOSO",
+          "tipo": "SOBRINHO"
+        }
+      ],
+      "vaga": 0,
+      "veiculo": "",
+      "moto": ""
+    },
+    {
+      "bloco": 2,
+      "apt": 212,
+      "nome": "SUELI GLORIA ALVES FARIA DA SILVA",
+      "tipo": "PROPRIETARIO",
+      "dependentes": [
+        {
+          "nome": "FABIANO FARIAS DA SILVA",
+          "tipo": "FILHO"
+        }
+      ],
+      "vaga": 0,
+      "veiculo": "",
+      "moto": ""
+    },
+  
+    {
+      "bloco": 2,
+      "apt": 301,
+      "nome": "JOACIL ALVES DE OLIVEIRA",
+      "tipo": "PROPRIETARIO",
+      "dependentes": [
+        {
+          "nome": "GUILHEMRE ALVES DE SOUSA",
+          "tipo": "FILHO"
+        },
+        {
+          "nome": "JOAO VICTOR LACERDA DE ALMEIDA",
+          "tipo": "IRMAO"
+        },
+        {
+          "nome": "RITA DE CASSIA DA SILVA DE SA",
+          "tipo": "ESPOSA"
+        },
+        {
+          "nome": "RUDY MARCELL TEIXEIRA DE MOURA",
+          "tipo": "IRMAO"
+        }
+      ],
+      "vaga": 0,
+      "veiculo": "",
+      "moto": ""
+    },
+    {
+      "bloco": 2,
+      "apt": 302,
+      "nome": "JOSE PHELLIPE LEITE DA SILVA",
+      "tipo": "PROPRIETARIO",
+      "dependentes": [
+        {
+          "nome": "PATRICIA PEREIRA MARTINS DA SILVA",
+          "tipo": "ESPOSA"
+        },
+        {
+          "nome": "GABRIEL MARTINS DA SILVA",
+          "tipo": "FILHA"
+        }
+      ],
+      "vaga": 1,
+      "veiculo": "",
+      "moto": ""
+    },
+    {
+      "bloco": 2,
+      "apt": 303,
+      "nome": "PEDRO PAULO ALEXANDRINO JUNIOR",
+      "tipo": "PROPRIETARIO",
+      "dependentes": [
+        {
+          "nome": "NICOLAS DE OLIVEIRA ALEXANDRINO",
+          "tipo": "FILHO"
+        },
+        {
+          "nome": "TAINARA DE OLIVEIRA VIEIRA",
+          "tipo": "ESPOSA"
+        }
+      ],
+      "vaga": 1,
+      "veiculo": "",
+      "moto": ""
+    },
+    {
+      "bloco": 2,
+      "apt": 304,
+      "nome": "HYLDO PALMA CORREIA JUNIOR",
+      "tipo": "PROPRIETARIO",
+      "dependentes": [],
+      "vaga": 0,
+      "veiculo": "",
+      "moto": ""
+    },
+    {
+      "bloco": 2,
+      "apt": 305,
+      "nome": "SANDYCLEI SOARES DE JESUS",
+      "tipo": "PROPRIETARIO",
+      "dependentes": [
+        {
+          "nome": "CAMILA SANTOS DE SOARES",
+          "tipo": "ESPOSA"
+        }
+      ],
+      "vaga": 0,
+      "veiculo": "",
+      "moto": ""
+    },
+    {
+      "bloco": 2,
+      "apt": 306,
+      "nome": "DENISE ANTONIO DO ROSARIO COELHO",
+      "tipo": "PROPRIETARIO",
+      "dependentes": [
+        {
+          "nome": "HIGOR JESUS DO NASCIMENTO",
+          "tipo": "ESPOSO"
+        }
+      ],
+      "vaga": 0,
+      "veiculo": "",
+      "moto": ""
+    },
+    {
+      "bloco": 2,
+      "apt": 307,
+      "nome": "MARIANA MONTEIRO DE BARROS",
+      "tipo": "PROPRIETARIO",
+      "dependentes": [
+        {
+          "nome": "MARCELO GABRIEL MONTEIRO DE BARROS MACIEL",
+          "tipo": "IRMÃO"
+        }
+      ],
+      "vaga": 0,
+      "veiculo": "",
+      "moto": ""
+    },
+    {
+      "bloco": 2,
+      "apt": 308,
+      "nome": "",
+      "tipo": "",
+      "dependentes": [],
+      "vaga": 1,
+      "veiculo": "",
+      "moto": ""
+    },
+    {
+      "bloco": 2,
+      "apt": 309,
+      "nome": "ROSANGELA GOUVEA MITJANS",
+      "tipo": "PROPRIETARIO",
+      "dependentes": [
+        {
+          "nome": "DANDARA MITJONS MENDES",
+          "tipo": "FILHA"
+        },
+        {
+          "nome": "BRUNO TEIXEIRA DE SOUZA",
+          "tipo": "GENRO"
+        },
+        {
+          "nome": "ANDREA CRISTINA TEIXEIRA DE SOUZA",
+          "tipo": "MAE"
+        }
+      ],
+      "vaga": 1,
+      "veiculo": "",
+      "moto": ""
+    },
+    {
+      "bloco": 2,
+      "apt": 310,
+      "nome": "RAFAELLE CRISTINI ROCHA E SILVA",
+      "tipo": "PROPRIETARIO",
+      "dependentes": [
+        {
+          "nome": "MARCIO ANDRE DE FIGUEIREDO BRASIL JUNIOR",
+          "tipo": "CONJUGE"
+        }
+      ],
+      "vaga": 0,
+      "veiculo": "",
+      "moto": ""
+    },
+    {
+      "bloco": 2,
+      "apt": 311,
+      "nome": "ANA MOURA SANTOS COSTA",
+      "tipo": "PROPRIETARIO",
+      "dependentes": [],
+      "vaga": 0,
+      "veiculo": "",
+      "moto": ""
+    },
+    {
+      "bloco": 2,
+      "apt": 312,
+      "nome": "RAYSSA CRISTINA ALVES FRANCISCO",
+      "tipo": "PROPRIETARIO",
+      "dependentes": [
+        {
+          "nome": "CARLOS EDUARDO COSTA FERREIRA",
+          "tipo": "ESPOSO"
+        },
+        {
+          "nome": "RYAN FRANCISCO LORENZO",
+          "tipo": "SOBRINHO"
+        },
+        {
+          "nome": "ELIANE DOS SANTOS ALVES FRANCISCO",
+          "tipo": "MAE"
+        },
+        {
+          "nome": "RAYANE CRISTINA ALVES FRANCISCO",
+          "tipo": ""
+        }
+      ],
+      "vaga": 0,
+      "veiculo": "",
+      "moto": ""
+    },
+    {
+      "bloco": 2,
+      "apt": 401,
+      "nome": "ROBERVAL SANTANA OLIVEIRA",
+      "tipo": "PROPRIETARIO",
+      "dependentes": [
+        {
+          "nome": "LAYSSA MIRELLE SOUZA OLIVEIRA",
+          "tipo": "ESPOSA"
+        }
+      ],
+      "vaga": 0,
+      "veiculo": "",
+      "moto": ""
+    },
+    {
+      "bloco": 2,
+      "apt": 402,
+      "nome": "FERNANDO CESAR DA SILVA",
+      "tipo": "PROPRIETARIO",
+      "dependentes": [
+        {
+          "nome": "ALINE BEZERRA DE SANTANA",
+          "tipo": "ESPOSA"
+        },
+        {
+          "nome": "JEANNE SANTANA DA SILVA",
+          "tipo": "FILHA"
+        },
+        {
+          "nome": "ISABELA SANTANA DA SILVA",
+          "tipo": "NETA"
+        },
+        {
+          "nome": "YURI SANTANA DA SILVA",
+          "tipo": "NETO"
+        }
+      ],
+      "vaga": 1,
+      "veiculo": "",
+      "moto": ""
+    },
+    {
+      "bloco": 2,
+      "apt": 403,
+      "nome": "",
+      "tipo": "",
+      "dependentes": [],
+      "vaga": 1,
+      "veiculo": "",
+      "moto": ""
+    },
+    {
+      "bloco": 2,
+      "apt": 404,
+      "nome": "RAFAELA BAZILIO DA SILVA DOMINGOS",
+      "tipo": "PROPRIETARIO",
+      "dependentes": [
+        {
+          "nome": "MARCOS VINICIUS DOS SANTOS DOMINGOS",
+          "tipo": "ESPOSO"
+        }
+      ],
+      "vaga": 0,
+      "veiculo": "",
+      "moto": ""
+    },
+    {
+      "bloco": 2,
+      "apt": 405,
+      "nome": "ANDRESSA FREITAS SILVA",
+      "tipo": "PROPRIETARIO",
+      "dependentes": [
+        {
+          "nome": "STEVERSON DE JESUS BARCELOS",
+          "tipo": "ESPOSO"
+        }
+      ],
+      "vaga": 0,
+      "veiculo": "",
+      "moto": ""
+    },
+    {
+      "bloco": 2,
+      "apt": 406,
+      "nome": "",
+      "tipo": "",
+      "dependentes": [],
+      "vaga": 0,
+      "veiculo": "",
+      "moto": ""
+    },
+    {
+      "bloco": 2,
+      "apt": 407,
+      "nome": "VALERIA LOUREIRO FERREIRA NOBRE",
+      "tipo": "PROPRIETARIO",
+      "dependentes": [
+        {
+          "nome": "JORGE ROBERTO FERREIRA NEVES",
+          "tipo": "FILHO"
+        },
+        {
+          "nome": "CLAUDIA VALERIA FERREIRA NETO",
+          "tipo": "FILHO"
+        }
+      ],
+      "vaga": 0,
+      "veiculo": "",
+      "moto": ""
+    },
+    {
+      "bloco": 2,
+      "apt": 408,
+      "nome": "ULISSES LEITE NOVAES BASILIO",
+      "tipo": "PROPRIETARIO",
+      "dependentes": [
+        {
+          "nome": "DANIELE DA SILVA FARIA",
+          "tipo": "DIVORCIADA"
+        },
+        {
+          "nome": "KAUA FARIA NOVAES",
+          "tipo": "FILHO"
+        },
+        {
+          "nome": "MATHEUS FARIAS NOVAES",
+          "tipo": "FILHO"
+        }
+      ],
+      "vaga": 1,
+      "veiculo": "",
+      "moto": ""
+    },
+    {
+      "bloco": 2,
+      "apt": 409,
+      "nome": "",
+      "tipo": "",
+      "dependentes": [],
+      "vaga": 1,
+      "veiculo": "",
+      "moto": ""
+    },
+    {
+      "bloco": 2,
+      "apt": 410,
+      "nome": "HELENA PEIXOTO BONIFACIO",
+      "tipo": "PROPRIETARIO",
+      "dependentes": [
+        {
+          "nome": "CARLOS ROBERTO DO COUTO",
+          "tipo": "NAMORADO"
+        }
+      ],
+      "vaga": 0,
+      "veiculo": "",
+      "moto": ""
+    },
+    {
+      "bloco": 2,
+      "apt": 411,
+      "nome": "JANAIR DE ARAUJO CANDIDO",
+      "tipo": "PROPRIETARIO",
+      "dependentes": [
+        {
+          "nome": "MARIO AURELIO ESCARATE POBLETE",
+          "tipo": "CONJUGE"
+        },
+        {
+          "nome": "REBECA AURELIO DE ARAUJO ESCARETE POBLETE",
+          "tipo": "FILHA"
+        }
+      ],
+      "vaga": 0,
+      "veiculo": "",
+      "moto": ""
+    },
+    {
+      "bloco": 2,
+      "apt": 412,
+      "nome": "MATHEUS GOMES RIBEIRO",
+      "tipo": "PROPRIETARIO",
+      "dependentes": [
+        {
+          "nome": "YNGRID MARQUES DO COUTO LIMA",
+          "tipo": "NAMORADA"
+        },
+        {
+          "nome": "IDERALDO RIBEIRO",
+          "tipo": "PAI"
+        },
+        {
+          "nome": "FATIMA REGINA GOMES RIBEIRO",
+          "tipo": "MAE"
+        },
+        {
+          "nome": "CAIO FELIPE GOMES RIBEIRO",
+          "tipo": "IRMAO"
+        }
+      ],
+      "vaga": 0,
+      "veiculo": "",
+      "moto": ""
+    },
+    {
+      "bloco": 2,
+      "apt": 501,
+      "nome": "RAMON VIANNA FERNANDES PEDRO",
+      "tipo": "PROPRIETARIO",
+      "dependentes": [
+        {
+          "nome": "ANA CAROLINA MORAIS LUCAS VIANNA",
+          "tipo": "ESPOSA"
+        }
+      ],
+      "vaga": 0,
+      "veiculo": "",
+      "moto": ""
+    },
+    {
+      "bloco": 2,
+      "apt": 502,
+      "nome": "GILBERTO VIEIRA CARDOSO",
+      "tipo": "PROPRIETARIO",
+      "dependentes": [
+        {
+          "nome": "THAYNA SANTOS CURADO",
+          "tipo": "ESPOSA"
+        },
+        {
+          "nome": "YURI RAMOS CARDOSO",
+          "tipo": "FILHO"
+        },
+        {
+          "nome": "THAMIRIS SANTOS CURADO",
+          "tipo": "CUNHADA"
+        }
+      ],
+      "vaga": 1,
+      "veiculo": "",
+      "moto": ""
+    },
+    {
+      "bloco": 2,
+      "apt": 503,
+      "nome": "GUSTAVO GARCIA RODRIGUES",
+      "tipo": "PROPRIETARIO",
+      "dependentes": [
+        {
+          "nome": "GUSTAVO CORREIA RODRIGUES",
+          "tipo": ""
+        },
+        {
+          "nome": "THAISA DUTRA VIDAL",
+          "tipo": ""
+        },
+        {
+          "nome": "BERNARDO VIDAL RODRIGUES",
+          "tipo": ""
+        },
+        {
+          "nome": "MARTHA LUCIA DUTRA VIDAL",
+          "tipo": ""
+        }
+      ],
+      "vaga": 1,
+      "veiculo": "",
+      "moto": ""
+    },
+    {
+      "bloco": 2,
+      "apt": 504,
+      "nome": "LETICIA DE ABREU DA SILVA DAMASCENO",
+      "tipo": "PROPRIETARIO",
+      "dependentes": [
+        {
+          "nome": "CEZAR ROCHA DAMASCENO JUNIOR",
+          "tipo": "ESPOSO"
+        },
+        {
+          "nome": "LECI HONORINA DA SILVA",
+          "tipo": "MAE"
+        },
+        {
+          "nome": "ADAILTON DE ABREU DA SILVA",
+          "tipo": ""
+        },
+        {
+          "nome": "LUDMILA DE ABREU",
+          "tipo": "IRMA"
+        },
+        {
+          "nome": "BRUNO RIBA DA ROCHA",
+          "tipo": ""
+        }
+      ],
+      "vaga": 0,
+      "veiculo": "",
+      "moto": ""
+    },
+    {
+      "bloco": 2,
+      "apt": 505,
+      "nome": "JOSE SEVERINO DOS SANTOS",
+      "tipo": "PROPRIETARIO",
+      "dependentes": [
+        {
+          "nome": "ANA JULIA MACHADO SANTOS",
+          "tipo": "FILHA"
+        },
+        {
+          "nome": "MIGUEL MARIA DOS SANTOS",
+          "tipo": "FILHO"
+        },
+        {
+          "nome": "VALQUIRIA DE MELO GOMES",
+          "tipo": ""
+        }
+      ],
+      "vaga": 0,
+      "veiculo": "",
+      "moto": ""
+    },
+    {
+      "bloco": 2,
+      "apt": 506,
+      "nome": "GABRIELA FARIA DE SOUSA",
+      "tipo": "PROPRIETARIO",
+      "dependentes": [],
+      "vaga": 0,
+      "veiculo": "",
+      "moto": ""
+    },
+    {
+      "bloco": 2,
+      "apt": 507,
+      "nome": "VAGNER LUIS DA SILVA",
+      "tipo": "PROPRIETARIO",
+      "dependentes": [
+        {
+          "nome": "GUSTAVO MENEZES COSTA DA SILVA",
+          "tipo": "FILHO"
+        },
+        {
+          "nome": "BERNARDO MENEZES SANTOS DA SILVA",
+          "tipo": "FILHO"
+        },
+        {
+          "nome": "LUANA YOLANDA DE MENEZES SANTOS",
+          "tipo": "ESPOSA"
+        }
+      ],
+      "vaga": 0,
+      "veiculo": "",
+      "moto": ""
+    },
+    {
+      "bloco": 2,
+      "apt": 508,
+      "nome": "DANIEL BATISTA PEREIRA",
+      "tipo": "PROPRIETARIO",
+      "dependentes": [
+        {
+          "nome": "SUELEN CRISTINA FERREIRA DA SILVA BATISTA PEREIRA",
+          "tipo": "ESPOSA"
+        },
+        {
+          "nome": "MARIA EDUARDA FERREIRA DOS SANTOS",
+          "tipo": "FILHA"
+        }
+      ],
+      "vaga": 1,
+      "veiculo": "",
+      "moto": ""
+    },
+    {
+      "bloco": 2,
+      "apt": 509,
+      "nome": "MATHEUS JHONATAS DE OLIVEIRA PINHAL",
+      "tipo": "PROPRIETARIO",
+      "dependentes": [
+        {
+          "nome": "LETICIA CRISTIANE LABUTO REGO",
+          "tipo": "ESPOSA"
+        },
+        {
+          "nome": "WENDEL MARCELO DA SILVA PINHAL",
+          "tipo": "PAI"
+        }
+      ],
+      "vaga": 1,
+      "veiculo": "",
+      "moto": ""
+    },
+    {
+      "bloco": 2,
+      "apt": 510,
+      "nome": "LETICIA COSTA FERREIRA DE PAULA DA SILVA",
+      "tipo": "PROPRIETARIO",
+      "dependentes": [
+        {
+          "nome": "PATRICK LEVI CHEKER RIBAS",
+          "tipo": "ESPOSO"
+        },
+        {
+          "nome": "DANIELLE COSTA FERREIRA DE PAULA",
+          "tipo": "MAE"
+        },
+        {
+          "nome": "VALDECI FERREIRA DA SILVA",
+          "tipo": "PAI"
+        }
+      ],
+      "vaga": 0,
+      "veiculo": "",
+      "moto": ""
+    },
+    {
+      "bloco": 2,
+      "apt": 511,
+      "nome": "REBECCA ALMEIDA DO NASCIMENTO",
+      "tipo": "PROPRIETARIO",
+      "dependentes": [
+        {
+          "nome": "JOAO VENANCIO DAMACENA PAULO",
+          "tipo": "ESPOSO"
+        }
+      ],
+      "vaga": 0,
+      "veiculo": "",
+      "moto": ""
+    },
+    {
+      "bloco": 2,
+      "apt": 512,
+      "nome": "MARCELLY MARINHO DOS SANTOS",
+      "tipo": "PROPRIETARIO",
+      "dependentes": [
+        {
+          "nome": "MONIQUE CHARLES DA SILVA MARINHO",
+          "tipo": "MAE"
+        },
+        {
+          "nome": "THEO MARINHO XAVIER",
+          "tipo": "FILHA"
+        },
+        {
+          "nome": "SONIA MARIA DA SILVA",
+          "tipo": "AVO"
+        },
+        {
+          "nome": "MYLLENA CHRISTINE MARINHO",
+          "tipo": "IRMAO"
+        }
+      ],
+      "vaga": 0,
+      "veiculo": "",
+      "moto": ""
+    },
+    {
+      "bloco": 2,
+      "apt": 601,
+      "nome": "VINICIUS FERREIRA DE BARROS ALBUDANE",
+      "tipo": "LOCATARIO",
+      "dependentes": [
+        {
+          "nome": "LUCAS BARSALINE DISIEVI",
+          "tipo": "CONJUGE"
+        },
+        {
+          "nome": "NICOLLY FERREIRA DE BARROS ALBUDANCE",
+          "tipo": "IRMA"
+        }
+      ],
+      "vaga": 0,
+      "veiculo": "",
+      "moto": ""
+    },
+    {
+      "bloco": 2,
+      "apt": 602,
+      "nome": "DIEGO MANSO DE NEGREIROS",
+      "tipo": "PROPRIETARIO",
+      "dependentes": [],
+      "vaga": 1,
+      "veiculo": "",
+      "moto": ""
+    },
+    {
+      "bloco": 2,
+      "apt": 603,
+      "nome": "",
+      "tipo": "",
+      "dependentes": [],
+      "vaga": 1,
+      "veiculo": "",
+      "moto": ""
+    },
+    {
+      "bloco": 2,
+      "apt": 604,
+      "nome": "ALESSANDRA DE CASSIA DA SILVA BARROS",
+      "tipo": "PROPRIETARIO",
+      "dependentes": [],
+      "vaga": 0,
+      "veiculo": "",
+      "moto": ""
+    },
+    {
+      "bloco": 2,
+      "apt": 605,
+      "nome": "NATALIA RIBEIRO DE PAULA",
+      "tipo": "LOCATARIO",
+      "dependentes": [
+        {
+          "nome": "LUAN COUTINHO",
+          "tipo": "NAMORADO"
+        },
+        {
+          "nome": "RITA DE CASSIA BARBOZA",
+          "tipo": "AVO"
+        },
+        {
+          "nome": "ELAINE BARBOZA GOMES",
+          "tipo": "MAE"
+        }
+      ],
+      "vaga": 0,
+      "veiculo": "",
+      "moto": ""
+    },
+    {
+      "bloco": 2,
+      "apt": 606,
+      "nome": "FLAVIA MONTEIRO DE SOUZA",
+      "tipo": "PROPRIETARIO",
+      "dependentes": [
+        {
+          "nome": "MARIA DE LOURDES DA SILVA SOUZA",
+          "tipo": "MAE"
+        },
+        {
+          "nome": "FRANCISCO MONTEIRO DE SOUZA FILHO",
+          "tipo": "PAI"
+        },
+        {
+          "nome": "TARCISO TRAVASSOS RABELLO",
+          "tipo": "NAMORADO"
+        }
+      ],
+      "vaga": 0,
+      "veiculo": "",
+      "moto": ""
+    },
+    {
+      "bloco": 2,
+      "apt": 607,
+      "nome": "RAPHAEL JOSE FERREIRA PACHECO DE SOUSA",
+      "tipo": "PROPRIETARIO",
+      "dependentes": [
+        {
+          "nome": "SHEILA THAMIRIS VIEIRA",
+          "tipo": "NOIVA"
+        }
+      ],
+      "vaga": 0,
+      "veiculo": "",
+      "moto": ""
+    },
+    {
+      "bloco": 2,
+      "apt": 608,
+      "nome": "MARIO SEBASTIAO PAZ DOS SANTOS",
+      "tipo": "PROPRIETARIO",
+      "dependentes": [
+        {
+          "nome": "JESSICA OLIVEIRA DOS SANTOS",
+          "tipo": "ESPOSA"
+        },
+        {
+          "nome": "LUIZA FERREIRA PAZ DOS SANTOS",
+          "tipo": "FILHA"
+        },
+        {
+          "nome": "DALVANIRA OLIVEIRA DOS SANTOS",
+          "tipo": "SOGRA"
+        }
+      ],
+      "vaga": 1,
+      "veiculo": "",
+      "moto": ""
+    },
+    {
+      "bloco": 2,
+      "apt": 609,
+      "nome": "KALLENE MOTHE BARROS",
+      "tipo": "PROPRIETARIO",
+      "dependentes": [
+        {
+          "nome": "GABRIEL LEONARDO BRITO SANTOS",
+          "tipo": "MARIDO"
+        }
+      ],
+      "vaga": 1,
+      "veiculo": "",
+      "moto": ""
+    },
+    {
+      "bloco": 2,
+      "apt": 610,
+      "nome": "SIMONE DE FIGUEIREDO ALVES",
+      "tipo": "PROPRIETARIO",
+      "dependentes": [
+        {
+          "nome": "ISABELA ALVES BRITO",
+          "tipo": "FILHA"
+        },
+        {
+          "nome": "GABRIELA ALVES CASTANHEIRA",
+          "tipo": "FILHA"
+        },
+        {
+          "nome": "SILVIO DOMINGUES ALVES",
+          "tipo": "PAI"
+        }
+      ],
+      "vaga": 0,
+      "veiculo": "",
+      "moto": ""
+    },
+    {
+      "bloco": 2,
+      "apt": 611,
+      "nome": "ANNA PAULA VIEIRA GRALHEIRO GOMES",
+      "tipo": "LOCATARIO",
+      "dependentes": [
+        {
+          "nome": "TACIANA DIAS",
+          "tipo": "AMIGA"
+        },
+        {
+          "nome": "DIEGO GOMES",
+          "tipo": "IRMAO"
+        }
+      ],
+      "vaga": 0,
+      "veiculo": "",
+      "moto": ""
+    },
+    {
+      "bloco": 2,
+      "apt": 612,
+      "nome": "DEISE BATISTA DA SILVA GIBIN",
+      "tipo": "PROPRIETARIO",
+      "dependentes": [
+        {
+          "nome": "WILSON BaptISTA CALDEIRO",
+          "tipo": "NAMORADO"
+        }
+      ],
+      "vaga": 0,
+      "veiculo": "",
+      "moto": ""
+    },
+    {
+      "bloco": 2,
+      "apt": 701,
+      "nome": "WALESSA NOEMIA SILVA PEREIRA",
+      "tipo": "PROPRIETARIO",
+      "dependentes": [
+        {
+          "nome": "LUISE PEREIRA",
+          "tipo": "FILHA"
+        }
+      ],
+      "vaga": 0,
+      "veiculo": "",
+      "moto": ""
+    },
+    {
+      "bloco": 2,
+      "apt": 702,
+      "nome": "MARCOS TADEU FERNANDES PEDRO",
+      "tipo": "PROPRIETARIO",
+      "dependentes": [
+        {
+          "nome": "ELIANE RAMOS",
+          "tipo": "ESPOSA"
+        },
+        {
+          "nome": "DIOGO VIANNA FERNANDES",
+          "tipo": "FILHO"
+        },
+        {
+          "nome": "LIDIANE PEREIRA",
+          "tipo": "NORA"
+        },
+        {
+          "nome": "HELENA RAMOS",
+          "tipo": "NETA"
+        }
+      ],
+      "vaga": 1,
+      "veiculo": "",
+      "moto": ""
+    },
+    {
+      "bloco": 2,
+      "apt": 703,
+      "nome": "ELIAS DE SOUZA",
+      "tipo": "PROPRIETARIO",
+      "dependentes": [
+        {
+          "nome": "RAQUEL DA CONCEICAO GOMES DE SOUZA",
+          "tipo": "ESPOSA"
+        },
+        {
+          "nome": "VIVIAN GOMES DE SOUZA",
+          "tipo": "FILHA"
+        },
+        {
+          "nome": "VINICIUS GOMES DE SOUZA",
+          "tipo": "FILHO"
+        },
+        {
+          "nome": "KEYLA DE OLIVEIRA DE SOUZA",
+          "tipo": "FILHA"
+        },
+        {
+          "nome": "SAUL DE OLIVEIRA SOUZA",
+          "tipo": "NETO"
+        }
+      ],
+      "vaga": 1,
+      "veiculo": "",
+      "moto": ""
+    },
+    {
+      "bloco": 2,
+      "apt": 704,
+      "nome": "VICTORIA MARTINS FREITAS DA SILVA",
+      "tipo": "PROPRIETARIO",
+      "dependentes": [
+        {
+          "nome": "SONIA MARTINS",
+          "tipo": "MAE"
+        },
+        {
+          "nome": "LUIZ CARLOS",
+          "tipo": "PAI"
+        },
+        {
+          "nome": "GUILHERME SOARES",
+          "tipo": "NAMORADO"
+        },
+        {
+          "nome": "CLEYDSON COSTA DE ANDRADE SILVA",
+          "tipo": "PRIMO"
+        }
+      ],
+      "vaga": 0,
+      "veiculo": "",
+      "moto": ""
+    },
+    {
+      "bloco": 2,
+      "apt": 705,
+      "nome": "JOSE VITOR RANGEL ORTIZ",
+      "tipo": "PROPRIETARIO",
+      "dependentes": [
+        {
+          "nome": "ANDRESSA KIFFER CALAVES RANGEL ORTIZ",
+          "tipo": "ESPOSA"
+        },
+        {
+          "nome": "BENICIO KIFFER CALAVES RANGEL ORTIZ",
+          "tipo": "FILHO"
+        },
+        {
+          "nome": "JULIA KIFFER CALAVES SILVA",
+          "tipo": "SOBRINHA"
+        }
+      ],
+      "vaga": 0,
+      "veiculo": "",
+      "moto": ""
+    },
+    {
+      "bloco": 2,
+      "apt": 706,
+      "nome": "EDGARD LINDESAY NETO",
+      "tipo": "PROPRIETARIO",
+      "dependentes": [
+        {
+          "nome": "ARTHUR OLIVEIRA LINDESAY",
+          "tipo": "FILHA"
+        },
+        {
+          "nome": "SUELLEN CARVALHO DA SILVA",
+          "tipo": "NAMORADA"
+        },
+        {
+          "nome": "IUNES LINDESAY",
+          "tipo": "PAI"
+        },
+        {
+          "nome": "LAURA LINDESAY",
+          "tipo": "FILHA"
+        }
+      ],
+      "vaga": 0,
+      "veiculo": "",
+      "moto": ""
+    },
+    {
+      "bloco": 2,
+      "apt": 707,
+      "nome": "GABRIELA LOROZA BATISTA DE MARCOS",
+      "tipo": "PROPRIETARIO",
+      "dependentes": [
+        {
+          "nome": "LUCAS ALVES DE CAMPOS NEVES DOS SANTOS",
+          "tipo": "ESPOSO"
+        },
+        {
+          "nome": "GIOVANNA LOROZA BATISTA DE MARCOS",
+          "tipo": "IRMA"
+        }
+      ],
+      "vaga": 0,
+      "veiculo": "",
+      "moto": ""
+    },
+    {
+      "bloco": 2,
+      "apt": 708,
+      "nome": "ISAAC DE SOUZA DANTAS",
+      "tipo": "PROPRIETARIO",
+      "dependentes": [
+        {
+          "nome": "RENATA DIAS DA SILVA DANTAS",
+          "tipo": "ESPOSA"
+        },
+        {
+          "nome": "REBECA DIAS DANTAS",
+          "tipo": "FILHA"
+        },
+        {
+          "nome": "IASMIN DIAS DANTAS",
+          "tipo": "FILHA"
+        }
+      ],
+      "vaga": 1,
+      "veiculo": "",
+      "moto": ""
+    },
+    {
+      "bloco": 2,
+      "apt": 709,
+      "nome": "VINICIUS LEITE DE PAULA",
+      "tipo": "PROPRIETARIO",
+      "dependentes": [
+        {
+          "nome": "LILIAN MENDONCA DOS SANTOS",
+          "tipo": "ESPOSA"
+        },
+        {
+          "nome": "SOLANGE DE SALLES MENDONCA",
+          "tipo": "SOGRA"
+        },
+        {
+          "nome": "",
+          "tipo": "PAI"
+        }
+      ],
+      "vaga": 1,
+      "veiculo": "",
+      "moto": ""
+    },
+    {
+      "bloco": 2,
+      "apt": 710,
+      "nome": "MARIA ELENI DA SILVA RIBEIRO",
+      "tipo": "PROPRIETARIO",
+      "dependentes": [
+        {
+          "nome": "JOSE MAURICIO DA SILVA RIBEIRO",
+          "tipo": "IRMAO"
+        },
+        {
+          "nome": "FLAVIA EVELIN DE OLIVEIRA RIBEIRO",
+          "tipo": "CUNHADA"
+        },
+        {
+          "nome": "LARISSA DE OLIVEIRA RIBEIRO",
+          "tipo": "SOBRINHA"
+        },
+        {
+          "nome": "GIULIA DE OLIVEIRA RIBEIRO",
+          "tipo": "SOBRINHA"
+        },
+        {
+          "nome": "MATHEUS DE OLIVEIRA RIBEIRO",
+          "tipo": "SOBRINHO"
+        }
+      ],
+      "vaga": 0,
+      "veiculo": "",
+      "moto": ""
+    },
+    {
+      "bloco": 2,
+      "apt": 711,
+      "nome": "",
+      "tipo": "",
+      "dependentes": [],
+      "vaga": 0,
+      "veiculo": "",
+      "moto": ""
+    },
+    {
+      "bloco": 2,
+      "apt": 712,
+      "nome": "WANDERLEY GOMES DA SILVA",
+      "tipo": "PROPRIETARIO",
+      "dependentes": [
+        {
+          "nome": "MARIA DA PENHA DOS SANTOS SILVA",
+          "tipo": "ESPOSA"
+        },
+        {
+          "nome": "MANUEL SANTOS DA SILVA",
+          "tipo": "FILHO"
+        },
+        {
+          "nome": "MANUELLE SANTOS GOMES DA SILVA",
+          "tipo": "FILHA"
+        },
+        {
+          "nome": "MARIA SOFIA OLIVEIRA GOMES",
+          "tipo": "NETA"
+        }
+      ],
+      "vaga": 0,
+      "veiculo": "",
+      "moto": ""
+    },
+    {
+      "bloco": 2,
+      "apt": 801,
+      "nome": "CAROLINE PASSARELLI LEAL",
+      "tipo": "LOCATARIO",
+      "dependentes": [
+        {
+          "nome": "ANA PAULA PASSARELLI",
+          "tipo": "IRMA"
+        },
+        {
+          "nome": "ELTON MENDES MOREIRA",
+          "tipo": "CUNHADA"
+        },
+        {
+          "nome": "ALICYA PASSARELLI",
+          "tipo": "SOBRINHA"
+        },
+        {
+          "nome": "ANA BEATRIZ PASSARELLI",
+          "tipo": "SOBRINHA"
+        },
+        {
+          "nome": "MAGNO HENRIQUE",
+          "tipo": "SOBRINHO"
+        },
+        {
+          "nome": "JORGE LEAL",
+          "tipo": "PAI"
+        }
+      ],
+      "vaga": 0,
+      "veiculo": "",
+      "moto": ""
+    },
+    {
+      "bloco": 2,
+      "apt": 802,
+      "nome": "PRISCILA ROCHELLE BARBOSA DA SILVA",
+      "tipo": "PROPRIETARIO",
+      "dependentes": [
+        {
+          "nome": "NELSON CESAR OSORIO NETO",
+          "tipo": "CONJUGE"
+        }
+      ],
+      "vaga": 1,
+      "veiculo": "",
+      "moto": ""
+    },
+    {
+      "bloco": 2,
+      "apt": 803,
+      "nome": "BRUNO GONCALVES PEREIRA",
+      "tipo": "PROPRIETARIO",
+      "dependentes": [
+        {
+          "nome": "CINTHIA BATISTA AZEREDO",
+          "tipo": "ESPOSA"
+        }
+      ],
+      "vaga": 1,
+      "veiculo": "",
+      "moto": ""
+    },
+    {
+      "bloco": 2,
+      "apt": 804,
+      "nome": "FILIPE RANIERY DO NASCIMENTO",
+      "tipo": "PROPRIETARIO",
+      "dependentes": [
+        {
+          "nome": "THAINA DOS SANTOS DELCROTE",
+          "tipo": ""
+        }
+      ],
+      "vaga": 0,
+      "veiculo": "",
+      "moto": ""
+    },
+    {
+      "bloco": 2,
+      "apt": 805,
+      "nome": "",
+      "tipo": "",
+      "dependentes": [],
+      "vaga": 0,
+      "veiculo": "",
+      "moto": ""
+    },
+    {
+      "bloco": 2,
+      "apt": 806,
+      "nome": "KEYLA DE CASTRO DA SILVA",
+      "tipo": "PROPRIETARIO",
+      "dependentes": [
+        {
+          "nome": "LEANDRO PERRI SPINELLI",
+          "tipo": "ESPOSO"
+        },
+        {
+          "nome": "THEO DE CASTRO SPINELLI",
+          "tipo": "FILHO"
+        },
+        {
+          "nome": "CRISTIANE DA SILVA SIQUEIRA",
+          "tipo": "PRIMA"
+        }
+      ],
+      "vaga": 0,
+      "veiculo": "",
+      "moto": ""
+    },
+    {
+      "bloco": 2,
+      "apt": 807,
+      "nome": "MAYCON RIBEIRO DA SILVA",
+      "tipo": "PROPRIETARIO",
+      "dependentes": [
+        {
+          "nome": "RAQUEL PEREIRA",
+          "tipo": "NOIVA"
+        }
+      ],
+      "vaga": 0,
+      "veiculo": "",
+      "moto": ""
+    },
+    {
+      "bloco": 2,
+      "apt": 808,
+      "nome": "JOAO LUIZ VIEIRA DA SILVA",
+      "tipo": "PROPRIETARIO",
+      "dependentes": [
+        {
+          "nome": "ANA CAROLINA OGG DA CRUZ",
+          "tipo": "ESPOSA"
+        },
+        {
+          "nome": "ANA LUIZA OGG VIEIRA",
+          "tipo": "FILHO"
+        },
+        {
+          "nome": "RUBENITA CARDOSO OGG DA CRUZ",
+          "tipo": "SOGRA"
+        },
+        {
+          "nome": "LUCIANA FERRAZ",
+          "tipo": "IRMA"
+        }
+      ],
+      "vaga": 1,
+      "veiculo": "",
+      "moto": ""
+    },
+    {
+      "bloco": 2,
+      "apt": 809,
+      "nome": "MILENA AMORIM DA SILVEIRA DUTRA",
+      "tipo": "PROPRIETARIO",
+      "dependentes": [
+        {
+          "nome": "PAULO FERNANDO DUTRA JUNIOR",
+          "tipo": "ESPOSA"
+        },
+        {
+          "nome": "MARIA CLARA DA SILVEIRA SANTOS",
+          "tipo": "FILHA"
+        },
+        {
+          "nome": "MARINETE AMORIM ANASTACIO",
+          "tipo": "MAE"
+        },
+        {
+          "nome": "ROSANGELA RODRIGUES CAMPOS",
+          "tipo": "SOGRA"
+        }
+      ],
+      "vaga": 1,
+      "veiculo": "",
+      "moto": ""
+    },
+    {
+      "bloco": 2,
+      "apt": 810,
+      "nome": "MICHELLE BENTO TEIXEIRA",
+      "tipo": "PROPRIETARIO",
+      "dependentes": [
+        {
+          "nome": "ROEMARY BENTO TEIXEIRA",
+          "tipo": "MAE"
+        }
+      ],
+      "vaga": 0,
+      "veiculo": "",
+      "moto": ""
+    },
+    {
+      "bloco": 2,
+      "apt": 811,
+      "nome": "SHIRLENE CONCEICAO BAYMA DA SILVA",
+      "tipo": "PROPRIETARIO",
+      "dependentes": [
+        {
+          "nome": "RAYANE CARMO DA SILVA",
+          "tipo": "ESPOSA"
+        },
+        {
+          "nome": "CALAB CONCEICAO DA SILVA",
+          "tipo": "IRMAO"
+        },
+        {
+          "nome": "DIOGO SIQUEIRA MOREIRA",
+          "tipo": "IRMAO"
+        }
+      ],
+      "vaga": 0,
+      "veiculo": "",
+      "moto": ""
+    },
+    {
+      "bloco": 2,
+      "apt": 812,
+      "nome": "NATANI MARTINS DE FREITAS",
+      "tipo": "PROPRIETARIO",
+      "dependentes": [],
+      "vaga": 0,
+      "veiculo": "",
+      "moto": ""
+    },
+    {
+      "bloco": 2,
+      "apt": 901,
+      "nome": "RODRIGO CORREA DE LACERDA",
+      "tipo": "PROPRIETARIO",
+      "dependentes": [
+        {
+          "nome": "MARCELO SILVA DO NASCIMENTO",
+          "tipo": "ESPOSO"
+        },
+        {
+          "nome": "DANIEL LUIZ NASCIMENTO DOS SANTOS",
+          "tipo": "SOBRINHO"
+        },
+        {
+          "nome": "MARLENE SILVA DO NASCIMENTO",
+          "tipo": "CUNHADA"
+        }
+      ],
+      "vaga": 0,
+      "veiculo": "",
+      "moto": ""
+    },
+    {
+      "bloco": 2,
+      "apt": 902,
+      "nome": "CARLA DE OLIVEIRA VIEIRA",
+      "tipo": "PROPRIETARIO",
+      "dependentes": [],
+      "vaga": 1,
+      "veiculo": "",
+      "moto": ""
+    },
+    {
+      "bloco": 2,
+      "apt": 903,
+      "nome": "FABIO ROSA VIANA",
+      "tipo": "PROPRIETARIO",
+      "dependentes": [
+        {
+          "nome": "MARIA HELENA BARBOSA",
+          "tipo": "ESPOSA"
+        },
+        {
+          "nome": "BENICIO RODRIGUES VIANA",
+          "tipo": "FILHO"
+        }
+      ],
+      "vaga": 1,
+      "veiculo": "",
+      "moto": ""
+    },
+    {
+      "bloco": 2,
+      "apt": 904,
+      "nome": "JAQUELINE ALMEIDA GARCIA",
+      "tipo": "LOCATARIO",
+      "dependentes": [
+        {
+          "nome": "BERNARDO ALMEIDA GARCIA",
+          "tipo": "FILHO"
+        },
+        {
+          "nome": "YASMIN OLIVEIRA GOUVEIA",
+          "tipo": "FILHA"
+        },
+        {
+          "nome": "MARIA DE FATIMA ALMEIDA",
+          "tipo": "MAE"
+        },
+        {
+          "nome": "JOSE CESARIO DO ESPIRITO SANTO",
+          "tipo": "PADRASTO"
+        }
+      ],
+      "vaga": 0,
+      "veiculo": "",
+      "moto": ""
+    },
+    {
+      "bloco": 2,
+      "apt": 905,
+      "nome": "GILCIARA DO NASCIMENTO SILVA",
+      "tipo": "PROPRIETARIO",
+      "dependentes": [],
+      "vaga": 0,
+      "veiculo": "",
+      "moto": ""
+    },
+    {
+      "bloco": 2,
+      "apt": 906,
+      "nome": "VANDERLEYA SILVA DE SOUZA",
+      "tipo": "PROPRIETARIO",
+      "dependentes": [
+        {
+          "nome": "ADRIANA SILVA DE SOUZA CAMILO",
+          "tipo": ""
+        }
+      ],
+      "vaga": 0,
+      "veiculo": "",
+      "moto": ""
+    },
+    {
+      "bloco": 2,
+      "apt": 907,
+      "nome": "BRUNO MENDONCA RIBEIRO",
+      "tipo": "PROPRIETARIO",
+      "dependentes": [
+        {
+          "nome": "BARBARA WANDERLEY CAETANO",
+          "tipo": "NOIVA"
+        }
+      ],
+      "vaga": 0,
+      "veiculo": "",
+      "moto": ""
+    },
+    {
+      "bloco": 2,
+      "apt": 908,
+      "nome": "LYZ GASPAR GUERRA",
+      "tipo": "PROPRIETARIO",
+      "dependentes": [
+        {
+          "nome": "LUIZA GASPAR BOTELHO",
+          "tipo": "FILHA"
+        },
+        {
+          "nome": "PAULO HENRIQUE ALVES DOS SANTOS",
+          "tipo": "PADRASTO"
+        },
+        {
+          "nome": "DERLY GASPAR GUERRA",
+          "tipo": "MAE"
+        }
+      ],
+      "vaga": 1,
+      "veiculo": "",
+      "moto": ""
+    },
+    {
+      "bloco": 2,
+      "apt": 909,
+      "nome": "PAULO GIOVANI BASTOS DA SILVA",
+      "tipo": "PROPRIETARIO",
+      "dependentes": [
+        {
+          "nome": "RAFAELLA BASTOS DA SILVA",
+          "tipo": "FILHA"
+        },
+        {
+          "nome": "DEISE RODRIGUES ALVES DOS SANTOS",
+          "tipo": "NAMORADA"
+        },
+        {
+          "nome": "LIDICE BASTOS DA SILVA",
+          "tipo": "MAE"
+        },
+        {
+          "nome": "CARLOS HENRIQUE BASTOS DA SILVA",
+          "tipo": "IRMAO"
+        },
+        {
+          "nome": "ALESSANDRO BASTOS DA SILVA",
+          "tipo": "IRMAO"
+        }
+      ],
+      "vaga": 1,
+      "veiculo": "",
+      "moto": ""
+    },
+    {
+      "bloco": 2,
+      "apt": 910,
+      "nome": "GABRIELLA ALVES DIAS DA SILVA",
+      "tipo": "PROPRIETARIO",
+      "dependentes": [
+        {
+          "nome": "LARISSA MOREIRA DA SILVA",
+          "tipo": "NAMORADA"
+        }
+      ],
+      "vaga": 0,
+      "veiculo": "",
+      "moto": ""
+    },
+    {
+      "bloco": 2,
+      "apt": 911,
+      "nome": "RICARDO DAVID FRATTINI",
+      "tipo": "PROPRIETARIO",
+      "dependentes": [
+        {
+          "nome": "VANESSA CRISTINA MARTINS DA SILVA FRATTINI",
+          "tipo": "ESPOSA"
+        }
+      ],
+      "vaga": 0,
+      "veiculo": "",
+      "moto": ""
+    },
+    {
+      "bloco": 2,
+      "apt": 912,
+      "nome": "LILIAN DE FREITAS COSTA",
+      "tipo": "PROPRIETARIO",
+      "dependentes": [
+        {
+          "nome": "FABIANA TRINDADE BANDINO",
+          "tipo": "NAMORADO"
+        }
+      ],
+      "vaga": 0,
+      "veiculo": "",
+      "moto": ""
+    },
   {
     "bloco": 2,
     "apt": 1001,
     "nome": "CRISTIANE CARDOSO GONCALVES",
     "tipo": "PROPRIETARIO",
-    "dependentes": [],
+    "dependentes": [
+      {
+        "nome": "PAULO RICARDO SILVA DO NASCIMENTO",
+        "tipo": "AMIGO"
+      },
+      {
+        "nome": "IANDERSON DO NASCIMENTO FERREIRA",
+        "tipo": "AMIGO"
+      },
+      {
+        "nome": "GABRIEL STELET DE SOUZA",
+        "tipo": "LOCATARIO"
+      },
+      {
+        "nome": "RAYNA DOS SANTOS DE FREITAS",
+        "tipo": "ESPOSA"
+      },
+      {
+        "nome": "AURORA VIANA DE FREITAS",
+        "tipo": "FILHA"
+      }
+    ],
     "vaga": 0,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1001,
-    "nome": "PAULO RICARDO SILVA DO NASCIMENTO",
-    "tipo": "AMIGO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1001,
-    "nome": "IANDERSON DO NASCIMENTO FERREIRA",
-    "tipo": "AMIGO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1002,
-    "nome": "GABRIEL STELET DE SOUZA",
-    "tipo": "LOCATARIO",
-    "dependentes": [],
-    "vaga": 1,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1002,
-    "nome": "RAYNA DOS SANTOS DE FREITAS",
-    "tipo": "ESPOSA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1002,
-    "nome": "AURORA VIANA DE FREITAS",
-    "tipo": "FILHA",
-    "dependentes": [],
-    "vaga": "",
     "veiculo": "",
     "moto": ""
   },
@@ -6672,38 +5452,21 @@
     "apt": 1003,
     "nome": "FRANCISCO JOSE DE FREITAS",
     "tipo": "PROPRIETARIO",
-    "dependentes": [],
+    "dependentes": [
+      {
+        "nome": "MAIARA OLIVEIRA DE FREITAS PEREIRA",
+        "tipo": "FILHA"
+      },
+      {
+        "nome": "THIAGO DA SILVA PEREIRA",
+        "tipo": "GENRO"
+      },
+      {
+        "nome": "MARIA FONSECA AMARANTES",
+        "tipo": "ESPOSA"
+      }
+    ],
     "vaga": 1,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1003,
-    "nome": "MAIARA OLIVEIRA DE FREITAS PEREIRA",
-    "tipo": "FILHA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1003,
-    "nome": "THIAGO DA SILVA PEREIRA",
-    "tipo": "GENRO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1003,
-    "nome": "MARIA FONSECA AMARANTES",
-    "tipo": "ESPOSA",
-    "dependentes": [],
-    "vaga": "",
     "veiculo": "",
     "moto": ""
   },
@@ -6712,18 +5475,13 @@
     "apt": 1004,
     "nome": "TALITA LUCIO DA COSTA",
     "tipo": "PROPRIETARIO",
-    "dependentes": [],
+    "dependentes": [
+      {
+        "nome": "SANDRO HENRIQUE FERREIRA REIS",
+        "tipo": "NAMORADO"
+      }
+    ],
     "vaga": 0,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1004,
-    "nome": "SANDRO HENRIQUE FERREIRA REIS",
-    "tipo": "NAMORADO",
-    "dependentes": [],
-    "vaga": "",
     "veiculo": "",
     "moto": ""
   },
@@ -6732,28 +5490,17 @@
     "apt": 1005,
     "nome": "LEONARDO ROCHA NASCIMENTO",
     "tipo": "PROPRIETARIO",
-    "dependentes": [],
+    "dependentes": [
+      {
+        "nome": "DAYANE SABATINA GUIMARAES",
+        "tipo": "ESPOSA"
+      },
+      {
+        "nome": "CARLA ROCHA NASCIMENTO",
+        "tipo": "MAE"
+      }
+    ],
     "vaga": 0,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1005,
-    "nome": "DAYANE SABATINA GUIMARAES",
-    "tipo": "ESPOSA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1005,
-    "nome": "CARLA ROCHA NASCIMENTO",
-    "tipo": "MAE",
-    "dependentes": [],
-    "vaga": "",
     "veiculo": "",
     "moto": ""
   },
@@ -6772,28 +5519,17 @@
     "apt": 1007,
     "nome": "MATHEUS MELLO DE LIMA",
     "tipo": "PROPRIETARIO",
-    "dependentes": [],
+    "dependentes": [
+      {
+        "nome": "CRISTIANA DIAS DE MELLO LIMA",
+        "tipo": "MAE"
+      },
+      {
+        "nome": "GIVANILDO GEVARZIO DE LIMA",
+        "tipo": "PAI"
+      }
+    ],
     "vaga": 0,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1007,
-    "nome": "CRISTIANA DIAS DE MELLO LIMA",
-    "tipo": "MAE",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1007,
-    "nome": "GIVANILDO GEVARZIO DE LIMA",
-    "tipo": "PAI",
-    "dependentes": [],
-    "vaga": "",
     "veiculo": "",
     "moto": ""
   },
@@ -6802,48 +5538,26 @@
     "apt": 1008,
     "nome": "JOAO PAULO MAIA NABUCO",
     "tipo": "LOCATARIO",
-    "dependentes": [],
+    "dependentes": [
+      {
+        "nome": "SARA MENDONCA DE FARIAS",
+        "tipo": "ESPOSA"
+      },
+      {
+        "nome": "PEDRO HENRIQUE FARIAS NABUCO",
+        "tipo": "FILHO"
+      },
+      {
+        "apt": 1008,
+        "nome": "JOAO LUCCA FARIAS NABUCO",
+        "tipo": "FILHO"
+      },
+      {
+        "nome": "LUZINEICE MENDONCA DA SILVA",
+        "tipo": "SOGRA"
+      }
+    ],
     "vaga": 1,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1008,
-    "nome": "SARA MENDONCA DE FARIAS",
-    "tipo": "ESPOSA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1008,
-    "nome": "PEDRO HENRIQUE FARIAS NABUCO",
-    "tipo": "FILHO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1008,
-    "nome": "JOAO LUCCA FARIAS NABUCO",
-    "tipo": "FILHO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1008,
-    "nome": "LUZINEICE MENDONCA DA SILVA",
-    "tipo": "SOGRA",
-    "dependentes": [],
-    "vaga": "",
     "veiculo": "",
     "moto": ""
   },
@@ -6852,48 +5566,25 @@
     "apt": 1009,
     "nome": "EDUARDO GOMES DE CARVALHO",
     "tipo": "PROPRIETARIO",
-    "dependentes": [],
+    "dependentes": [
+      {
+        "nome": "EVANIR GOMES DE CARVALHO",
+        "tipo": "MAE"
+      },
+      {
+        "nome": "ILKA GOMES DE CARVALHO",
+        "tipo": "IRMA"
+      },
+      {
+        "nome": "GUILHERME MACIEL DE CARVALHO MARTINS",
+        "tipo": "NETO"
+      },
+      {
+        "nome": "ALICE MACIEL DE CARVALHO MARTINS",
+        "tipo": "NETA"
+      }
+    ],
     "vaga": 1,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1009,
-    "nome": "EVANIR GOMES DE CARVALHO",
-    "tipo": "MAE",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1009,
-    "nome": "ILKA GOMES DE CARVALHO",
-    "tipo": "IRMA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1009,
-    "nome": "GUILHERME MACIEL DE CARVALHO MARTINS",
-    "tipo": "NETO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1009,
-    "nome": "ALICE MACIEL DE CARVALHO MARTINS",
-    "tipo": "NETA",
-    "dependentes": [],
-    "vaga": "",
     "veiculo": "",
     "moto": ""
   },
@@ -6902,18 +5593,13 @@
     "apt": 1010,
     "nome": "NATHALIA CARDOSO RODRIGUES DE MACEDO",
     "tipo": "PROPRIETARIO",
-    "dependentes": [],
+    "dependentes": [
+      {
+        "nome": "BRUNO DINIZ RODRIGUES DE MACEDO",
+        "tipo": "MARIDO"
+      }
+    ],
     "vaga": 0,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1010,
-    "nome": "BRUNO DINIZ RODRIGUES DE MACEDO",
-    "tipo": "MARIDO",
-    "dependentes": [],
-    "vaga": "",
     "veiculo": "",
     "moto": ""
   },
@@ -6932,18 +5618,13 @@
     "apt": 1012,
     "nome": "MATHEUS RAFAEL PAZ DE ANCHIETA",
     "tipo": "PROPRIETARIO",
-    "dependentes": [],
+    "dependentes": [
+      {
+        "nome": "VIVIAN CORREA NASCIMENTO",
+        "tipo": "NOIVA"
+      }
+    ],
     "vaga": 0,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1012,
-    "nome": "VIVIAN CORREA NASCIMENTO",
-    "tipo": "NOIVA",
-    "dependentes": [],
-    "vaga": "",
     "veiculo": "",
     "moto": ""
   },
@@ -6952,38 +5633,21 @@
     "apt": 1101,
     "nome": "JULIANA PEREIRA BRAGA",
     "tipo": "PROPRIETARIO",
-    "dependentes": [],
+    "dependentes": [
+      {
+        "nome": "JEFERSON OLIVEIRA DA SILVA",
+        "tipo": "ESPOSA"
+      },
+      {
+        "nome": "PEDRO HENRIQUE PEREIRA NASCIMENTO",
+        "tipo": "ESPOSO"
+      },
+      {
+        "nome": "RENATO PINTO RAMOS",
+        "tipo": "TIO"
+      }
+    ],
     "vaga": 0,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1101,
-    "nome": "JEFERSON OLIVEIRA DA SILVA",
-    "tipo": "ESPOSA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1101,
-    "nome": "PEDRO HENRIQUE PEREIRA NASCIMENTO",
-    "tipo": "ESPOSO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1101,
-    "nome": "RENATO PINTO RAMOS",
-    "tipo": "TIO",
-    "dependentes": [],
-    "vaga": "",
     "veiculo": "",
     "moto": ""
   },
@@ -6992,38 +5656,21 @@
     "apt": 1102,
     "nome": "GABRIELA LEMOS TOZZI DE AZEVEDO",
     "tipo": "PROPRIETARIO",
-    "dependentes": [],
+    "dependentes": [
+      {
+        "nome": "ROMULO TOZZI DE AZEVEDO",
+        "tipo": "ESPOSO"
+      },
+      {
+        "nome": "CALEBE LEMOS TOZZI DE AZEVEDO",
+        "tipo": "FILHO"
+      },
+      {
+        "nome": "RODRIGO PINHEIRO SILVERIO",
+        "tipo": "PRIMO"
+      }
+    ],
     "vaga": 1,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1102,
-    "nome": "ROMULO TOZZI DE AZEVEDO",
-    "tipo": "ESPOSO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1102,
-    "nome": "CALEBE LEMOS TOZZI DE AZEVEDO",
-    "tipo": "FILHO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1102,
-    "nome": "RODRIGO PINHEIRO SILVERIO",
-    "tipo": "PRIMO",
-    "dependentes": [],
-    "vaga": "",
     "veiculo": "",
     "moto": ""
   },
@@ -7032,28 +5679,17 @@
     "apt": 1103,
     "nome": "FABIANO DE LIRA GOMES",
     "tipo": "PROPRIETARIO",
-    "dependentes": [],
+    "dependentes": [
+      {
+        "nome": "AMANDA CORREIA BRAGA GOMES",
+        "tipo": "ESPOSA"
+      },
+      {
+        "nome": "CELIA CORREIA BRAGA",
+        "tipo": "SOGRA"
+      }
+    ],
     "vaga": 1,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1103,
-    "nome": "AMANDA CORREIA BRAGA GOMES",
-    "tipo": "ESPOSA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1103,
-    "nome": "CELIA CORREIA BRAGA",
-    "tipo": "SOGRA",
-    "dependentes": [],
-    "vaga": "",
     "veiculo": "",
     "moto": ""
   },
@@ -7062,28 +5698,17 @@
     "apt": 1104,
     "nome": "RENATO MARQUES NUNES",
     "tipo": "PROPRIETARIO",
-    "dependentes": [],
+    "dependentes": [
+      {
+        "nome": "ROGERIO FREIRE NUNES",
+        "tipo": "PAI"
+      },
+      {
+        "nome": "ROSA MARIA MARQUES NUNES",
+        "tipo": "MAE"
+      }
+    ],
     "vaga": 0,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1104,
-    "nome": "ROGERIO FREIRE NUNES",
-    "tipo": "PAI",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1104,
-    "nome": "ROSA MARIA MARQUES NUNES",
-    "tipo": "MAE",
-    "dependentes": [],
-    "vaga": "",
     "veiculo": "",
     "moto": ""
   },
@@ -7092,38 +5717,21 @@
     "apt": 1105,
     "nome": "AMANDA CUNHA TRAJANO SAETTA CORREIA",
     "tipo": "PROPRIETARIO",
-    "dependentes": [],
+    "dependentes": [
+      {
+        "nome": "JULIANA DE OLIVEIRA RODRIGUES",
+        "tipo": "OUTROS"
+      },
+      {
+        "nome": "ALINE CUNHA TRAJANO SAETTA CORREIA",
+        "tipo": "IRMA"
+      },
+      {
+        "nome": "HELBER BYRNE DA SILVA",
+        "tipo": "ESPOSO"
+      }
+    ],
     "vaga": 0,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1105,
-    "nome": "JULIANA DE OLIVEIRA RODRIGUES",
-    "tipo": "OUTROS",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1105,
-    "nome": "ALINE CUNHA TRAJANO SAETTA CORREIA",
-    "tipo": "IRMA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1105,
-    "nome": "HELBER BYRNE DA SILVA",
-    "tipo": "ESPOSO",
-    "dependentes": [],
-    "vaga": "",
     "veiculo": "",
     "moto": ""
   },
@@ -7142,28 +5750,17 @@
     "apt": 1107,
     "nome": "CLEBER ENEDINO DE OLIVEIRA",
     "tipo": "PROPRIETARIO",
-    "dependentes": [],
+    "dependentes": [
+      {
+        "nome": "ERICA DOMINGO DE FREITAS",
+        "tipo": "ESPOSA"
+      },
+      {
+        "nome": "ELOA VICTORIA DOMINGUES SILVA",
+        "tipo": "SOBRINHA"
+      }
+    ],
     "vaga": 0,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1107,
-    "nome": "ERICA DOMINGO DE FREITAS",
-    "tipo": "ESPOSA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1107,
-    "nome": "ELOA VICTORIA DOMINGUES SILVA",
-    "tipo": "SOBRINHA",
-    "dependentes": [],
-    "vaga": "",
     "veiculo": "",
     "moto": ""
   },
@@ -7172,48 +5769,25 @@
     "apt": 1108,
     "nome": "PEDRO AUGUSTO FERREIRA DE FIGUEIREDO LOPES",
     "tipo": "PROPRIETARIO",
-    "dependentes": [],
+    "dependentes": [
+      {
+        "nome": "STELLA DE ALMEIDA PEREIRA LOPES",
+        "tipo": "ESPOSA"
+      },
+      {
+        "nome": "LIZ DE ALMEIDA LOPES",
+        "tipo": "FILHA"
+      },
+      {
+        "nome": "SOPHIA DA COSTA LOPES",
+        "tipo": "FILHA"
+      },
+      {
+        "nome": "LAURA DA COSTA LOPES",
+        "tipo": ""
+      }
+    ],
     "vaga": 1,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1108,
-    "nome": "STELLA DE ALMEIDA PEREIRA LOPES",
-    "tipo": "ESPOSA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1108,
-    "nome": "LIZ DE ALMEIDA LOPES",
-    "tipo": "FILHA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1108,
-    "nome": "SOPHIA DA COSTA LOPES",
-    "tipo": "FILHA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1108,
-    "nome": "LAURA DA COSTA",
-    "tipo": "LOPES",
-    "dependentes": [],
-    "vaga": "",
     "veiculo": "",
     "moto": ""
   },
@@ -7222,18 +5796,13 @@
     "apt": 1109,
     "nome": "SANDRO NUNES GONCALVES",
     "tipo": "PROPRIETARIO",
-    "dependentes": [],
+    "dependentes": [
+      {
+        "nome": "JOAO PEDRO ALVES GONCALVES",
+        "tipo": "FILHO"
+      }
+    ],
     "vaga": 1,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1109,
-    "nome": "JOAO PEDRO ALVES GONCALVES",
-    "tipo": "FILHO",
-    "dependentes": [],
-    "vaga": "",
     "veiculo": "",
     "moto": ""
   },
@@ -7242,18 +5811,13 @@
     "apt": 1110,
     "nome": "MULLER FARIAS DA SILVA",
     "tipo": "PROPRIETARIO",
-    "dependentes": [],
+    "dependentes": [
+      {
+        "nome": "EDUARDO BITANA FARIAS DA SILVA",
+        "tipo": "FILHO"
+      }
+    ],
     "vaga": 0,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1110,
-    "nome": "EDUARDO BITANA FARIAS DA SILVA",
-    "tipo": "FILHO",
-    "dependentes": [],
-    "vaga": "",
     "veiculo": "",
     "moto": ""
   },
@@ -7282,28 +5846,17 @@
     "apt": 1201,
     "nome": "RONIE SANTOS MOTA",
     "tipo": "PROPRIETARIO",
-    "dependentes": [],
+    "dependentes": [
+      {
+        "nome": "WALLACE MENDONCA PESSANHA",
+        "tipo": "NAMORADO"
+      },
+      {
+        "nome": "EDUARDO RAPHAEL GOMES MARQUES",
+        "tipo": "AMIGO"
+      }
+    ],
     "vaga": 0,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1201,
-    "nome": "WALLACE MENDONCA PESSANHA",
-    "tipo": "NAMORADO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1201,
-    "nome": "EDUARDO RAPHAEL GOMES MARQUES",
-    "tipo": "AMIGO",
-    "dependentes": [],
-    "vaga": "",
     "veiculo": "",
     "moto": ""
   },
@@ -7312,38 +5865,21 @@
     "apt": 1202,
     "nome": "FERNANDA PEREIRA RAMOS",
     "tipo": "PROPRIETARIO",
-    "dependentes": [],
+    "dependentes": [
+      {
+        "nome": "EVALDIRA PEREIRA DE JESUS",
+        "tipo": "MAE"
+      },
+      {
+        "nome": "KARINA PEREIRA RAMOS",
+        "tipo": "IRMA"
+      },
+      {
+        "nome": "LUCIANA PEREIRA DE JESUS",
+        "tipo": "IRMA"
+      }
+    ],
     "vaga": 1,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1202,
-    "nome": "EVALDIRA PEREIRA DE JESUS",
-    "tipo": "MAE",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1202,
-    "nome": "KARINA PEREIRA RAMOS",
-    "tipo": "IRMA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1202,
-    "nome": "LUCIANA PEREIRA DE JESUS",
-    "tipo": "IRMA",
-    "dependentes": [],
-    "vaga": "",
     "veiculo": "",
     "moto": ""
   },
@@ -7352,38 +5888,21 @@
     "apt": 1203,
     "nome": "VIVIAN SAINT' ANNA DA SILVA ESTANISLAU REIS",
     "tipo": "PROPRIETARIO",
-    "dependentes": [],
+    "dependentes": [
+      {
+        "nome": "EDUARDO ESTANISLAU REIS",
+        "tipo": "ESPOSO"
+      },
+      {
+        "nome": "ALICE SANT' ANNA ESTANISLAU",
+        "tipo": "FILHA"
+      },
+      {
+        "nome": "VANDA CRISTINA ESTANISLAU REIS",
+        "tipo": "SOGRA"
+      }
+    ],
     "vaga": 1,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1203,
-    "nome": "EDUARDO ESTANISLAU REIS",
-    "tipo": "ESPOSO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1203,
-    "nome": "ALICE SANT' ANNA ESTANISLAU",
-    "tipo": "FILHA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1203,
-    "nome": "VANDA CRISTINA ESTANISLAU REIS",
-    "tipo": "SOGRA",
-    "dependentes": [],
-    "vaga": "",
     "veiculo": "",
     "moto": ""
   },
@@ -7392,28 +5911,17 @@
     "apt": 1204,
     "nome": "MAURILIO DA CUNHA CARVALHO FILHO",
     "tipo": "PROPRIETARIO",
-    "dependentes": [],
+    "dependentes": [
+      {
+        "nome": "FATIMA MENDES DE SOUZA",
+        "tipo": "ESPOSA"
+      },
+      {
+        "nome": "BERTA LUCIA DE SOUZA CARVALHO",
+        "tipo": "FILHA"
+      }
+    ],
     "vaga": 1,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1204,
-    "nome": "FATIMA MENDES DE SOUZA",
-    "tipo": "ESPOSA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1204,
-    "nome": "BERTA LUCIA DE SOUZA CARVALHO",
-    "tipo": "FILHA",
-    "dependentes": [],
-    "vaga": "",
     "veiculo": "",
     "moto": ""
   },
@@ -7432,38 +5940,21 @@
     "apt": 1206,
     "nome": "RENATA FIGUEIREDO DE ARAUJO LIMA",
     "tipo": "PROPRIETARIO",
-    "dependentes": [],
+    "dependentes": [
+      {
+        "nome": "JOSE ANTONIO DE AZEVEDO CRESPO",
+        "tipo": "MARIDO"
+      },
+      {
+        "nome": "PENELOPE DE ARAUJO LIMA DA SILVA",
+        "tipo": "FILHA"
+      },
+      {
+        "nome": "THAIS DE OLIVEIRA SOBRAL",
+        "tipo": "AMIGA"
+      }
+    ],
     "vaga": 0,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1206,
-    "nome": "JOSE ANTONIO DE AZEVEDO CRESPO",
-    "tipo": "MARIDO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1206,
-    "nome": "PENELOPE DE ARAUJO LIMA DA SILVA",
-    "tipo": "FILHA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1206,
-    "nome": "THAIS DE OLIVEIRA SOBRAL",
-    "tipo": "AMIGA",
-    "dependentes": [],
-    "vaga": "",
     "veiculo": "",
     "moto": ""
   },
@@ -7472,18 +5963,13 @@
     "apt": 1207,
     "nome": "THAYANNA MENESES CESAR",
     "tipo": "PROPRIETARIO",
-    "dependentes": [],
+    "dependentes": [
+      {
+        "nome": "ROMULO ALMEIDA GOMES TORRES",
+        "tipo": "ESPOSO"
+      }
+    ],
     "vaga": 0,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1207,
-    "nome": "ROMULO ALMEIDA GOMES TORRES",
-    "tipo": "ESPOSO",
-    "dependentes": [],
-    "vaga": "",
     "veiculo": "",
     "moto": ""
   },
@@ -7492,18 +5978,13 @@
     "apt": 1208,
     "nome": "DOMARINO JUNIOR MACIEL RITES",
     "tipo": "PROPRIETARIO",
-    "dependentes": [],
+    "dependentes": [
+      {
+        "nome": "LOBANA RODRIGUES VERAS DOS SANTOS",
+        "tipo": "ESPOSA"
+      }
+    ],
     "vaga": 1,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1208,
-    "nome": "LOBANA RODRIGUES VERAS DOS SANTOS",
-    "tipo": "ESPOSA",
-    "dependentes": [],
-    "vaga": "",
     "veiculo": "",
     "moto": ""
   },
@@ -7512,38 +5993,21 @@
     "apt": 1209,
     "nome": "FABIO AGAPITO SANT ANA",
     "tipo": "PROPRIETARIO",
-    "dependentes": [],
+    "dependentes": [
+      {
+        "nome": "SUZANA DE MIRANDA ROCHA BaptISTA SANT'ANA",
+        "tipo": "ESPOSA"
+      },
+      {
+        "nome": "MARIA CRISTINA AMORIM DE MIRANDA ROCHA",
+        "tipo": "SOGRA"
+      },
+      {
+        "nome": "JOSE ANTONIO GONCALVES ROCHA",
+        "tipo": "PAI"
+      }
+    ],
     "vaga": 1,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1209,
-    "nome": "SUZANA DE MIRANDA ROCHA BaptISTA SANT'ANA",
-    "tipo": "ESPOSA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1209,
-    "nome": "MARIA CRISTINA AMORIM DE MIRANDA ROCHA",
-    "tipo": "SOGRA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1209,
-    "nome": "JOSE ANTONIO GONCALVES ROCHA",
-    "tipo": "PAI",
-    "dependentes": [],
-    "vaga": "",
     "veiculo": "",
     "moto": ""
   },
@@ -7552,48 +6016,25 @@
     "apt": 1210,
     "nome": "VICTOR JOSE RODRIGUES BaptISTA",
     "tipo": "LOCATARIO",
-    "dependentes": [],
+    "dependentes": [
+      {
+        "nome": "LETICIA ALMEIDA LOPES DE MELO",
+        "tipo": "ESPOSA"
+      },
+      {
+        "nome": "ANDREA DE ALMEIDA BARRBOSA",
+        "tipo": "SOGRA"
+      },
+      {
+        "nome": "JULIO CESAR MELO",
+        "tipo": "SOGRO"
+      },
+      {
+        "nome": "KELLEN CRISTINA RODRIGUES BaptISTA",
+        "tipo": "MAE"
+      }
+    ],
     "vaga": 0,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1210,
-    "nome": "LETICIA ALMEIDA LOPES DE MELO",
-    "tipo": "ESPOSA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1210,
-    "nome": "ANDREA DE ALMEIDA BARRBOSA",
-    "tipo": "SOGRA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1210,
-    "nome": "JULIO CESAR MELO",
-    "tipo": "SOGRO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1210,
-    "nome": "KELLEN CRISTINA RODRIGUES BaptISTA",
-    "tipo": "MAE",
-    "dependentes": [],
-    "vaga": "",
     "veiculo": "",
     "moto": ""
   },
@@ -7602,18 +6043,13 @@
     "apt": 1211,
     "nome": "LUIZ ADELINO LOPES AMORIM",
     "tipo": "LOCATARIO",
-    "dependentes": [],
+    "dependentes": [
+      {
+        "nome": "LILIAN DONATO DA NOBREGA AMORIM",
+        "tipo": "ESPOSA"
+      }
+    ],
     "vaga": 0,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1211,
-    "nome": "LILIAN DONATO DA NOBREGA AMORIM",
-    "tipo": "ESPOSA",
-    "dependentes": [],
-    "vaga": "",
     "veiculo": "",
     "moto": ""
   },
@@ -7632,58 +6068,29 @@
     "apt": 1301,
     "nome": "CARLOS HENRIQUE LOPES DE OLIVEIRA",
     "tipo": "PROPRIETARIO",
-    "dependentes": [],
+    "dependentes": [
+      {
+        "nome": "JOSE CARLOS DE OLIVEIRA",
+        "tipo": "PAI"
+      },
+      {
+        "nome": "MARIA DO CARMO LOPES DE OLIVEIRA",
+        "tipo": "MAE"
+      },
+      {
+        "nome": "LUIZ HENRIQUE LOPES DE OLIVEIRA",
+        "tipo": "IRMAO"
+      },
+      {
+        "nome": "GABRIEL LOPES DE OLIVEIRA",
+        "tipo": "IRMAO"
+      },
+      {
+        "nome": "DOUGLAS VIANA",
+        "tipo": ""
+      }
+    ],
     "vaga": 1,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1301,
-    "nome": "JOSE CARLOS DE OLIVEIRA",
-    "tipo": "PAI",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1301,
-    "nome": "MARIA DO CARMO LOPES DE OLIVEIRA",
-    "tipo": "MAE",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1301,
-    "nome": "LUIZ HENRIQUE LOPES DE OLIVEIRA",
-    "tipo": "IRMAO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1301,
-    "nome": "GABRIEL LOPES DE OLIVEIRA",
-    "tipo": "IRMAO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1301,
-    "nome": "DOUGLAS VIANA",
-    "tipo": "",
-    "dependentes": [],
-    "vaga": "",
     "veiculo": "",
     "moto": ""
   },
@@ -7692,28 +6099,17 @@
     "apt": 1302,
     "nome": "GRACIELE HENRIQUE COELHO",
     "tipo": "PROPRIETARIO",
-    "dependentes": [],
+    "dependentes": [
+      {
+        "nome": "EUNICE XAVIER HENRIQUE",
+        "tipo": "MÃE"
+      },
+      {
+        "nome": "LEONARDO HENRIQUE COELHO",
+        "tipo": "IRMÃO"
+      }
+    ],
     "vaga": 1,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1302,
-    "nome": "EUNICE XAVIER HENRIQUE",
-    "tipo": "MÃE",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1302,
-    "nome": "LEONARDO HENRIQUE COELHO",
-    "tipo": "IRMÃO",
-    "dependentes": [],
-    "vaga": "",
     "veiculo": "",
     "moto": ""
   },
@@ -7732,48 +6128,25 @@
     "apt": 1304,
     "nome": "DEOLINDA GONZAGA AMARAL CARVALHO",
     "tipo": "PROPRIETARIA",
-    "dependentes": [],
+    "dependentes": [
+      {
+        "nome": "LEANDRO GONZAGA AMARAL CARVALHO",
+        "tipo": "FILHO"
+      },
+      {
+        "nome": "POLLYANNA MELO NOGUEIRA DE MOURA",
+        "tipo": "NORA"
+      },
+      {
+        "nome": "ALICE NOGUEIRA DE MOURA GONZAGA CARVALHO",
+        "tipo": "NETA"
+      },
+      {
+        "nome": "CELSO RODRIGUES GONZAGA",
+        "tipo": "IRMÃO"
+      }
+    ],
     "vaga": 1,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1304,
-    "nome": "LEANDRO GONZAGA AMARAL CARVALHO",
-    "tipo": "FILHO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1304,
-    "nome": "POLLYANNA MELO NOGUEIRA DE MOURA",
-    "tipo": "NORA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1304,
-    "nome": "ALICE NOGUEIRA DE MOURA GONZAGA CARVALHO",
-    "tipo": "NETA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1304,
-    "nome": "CELSO RODRIGUES GONZAGA",
-    "tipo": "IRMÃO",
-    "dependentes": [],
-    "vaga": "",
     "veiculo": "",
     "moto": ""
   },
@@ -7782,38 +6155,21 @@
     "apt": 1305,
     "nome": "SIMONE PINHEIRO BARBOSA",
     "tipo": "PROPRIETARIO",
-    "dependentes": [],
+    "dependentes": [
+      {
+        "nome": "LUIZ PINHEIRO DO NASCIMENTO",
+        "tipo": "FILHO"
+      },
+      {
+        "nome": "MATHEUS PINHEIRO GOMES",
+        "tipo": "FILHO"
+      },
+      {
+        "nome": "REGINA CELIA DOS SANTOS PINHEIRO",
+        "tipo": "MAE"
+      }
+    ],
     "vaga": 1,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1305,
-    "nome": "LUIZ PINHEIRO DO NASCIMENTO",
-    "tipo": "FILHO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1305,
-    "nome": "MATHEUS PINHEIRO GOMES",
-    "tipo": "FILHO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1305,
-    "nome": "REGINA CELIA DOS SANTOS PINHEIRO",
-    "tipo": "MAE",
-    "dependentes": [],
-    "vaga": "",
     "veiculo": "",
     "moto": ""
   },
@@ -7822,18 +6178,13 @@
     "apt": 1306,
     "nome": "RITA DE CASSIA LYRA DA SILVA",
     "tipo": "PROPRIETARIO",
-    "dependentes": [],
+    "dependentes": [
+      {
+        "nome": "MARCOS AURELIO DA SILVA ALVES",
+        "tipo": "ESPOSO"
+      }
+    ],
     "vaga": 1,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1306,
-    "nome": "MARCOS AURELIO DA SILVA ALVES",
-    "tipo": "ESPOSO",
-    "dependentes": [],
-    "vaga": "",
     "veiculo": "",
     "moto": ""
   },
@@ -7852,38 +6203,21 @@
     "apt": 1308,
     "nome": "PAULA SOARES DA CUNHA",
     "tipo": "PROPRIETARIO",
-    "dependentes": [],
+    "dependentes": [
+      {
+        "nome": "ADRIANO SOARES DA CUNHA",
+        "tipo": "IRMÃO"
+      },
+      {
+        "nome": "LAERTE FERREIRA DE CARVALHO FILHO",
+        "tipo": "ESPOSO"
+      },
+      {
+        "nome": "RICARDO SOARES DA CUNHA",
+        "tipo": "IRMÃO"
+      }
+    ],
     "vaga": 1,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1308,
-    "nome": "ADRIANO SOARES DA CUNHA",
-    "tipo": "IRMÃO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1308,
-    "nome": "LAERTE FERREIRA DE CARVALHO FILHO",
-    "tipo": "ESPOSO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1308,
-    "nome": "RICARDO SOARES DA CUNHA",
-    "tipo": "IRMÃO",
-    "dependentes": [],
-    "vaga": "",
     "veiculo": "",
     "moto": ""
   },
@@ -7892,38 +6226,21 @@
     "apt": 1309,
     "nome": "LEANDRO COSTA LIMA",
     "tipo": "PROPRIETARIO",
-    "dependentes": [],
+    "dependentes": [
+      {
+        "nome": "GABRIELE MIRANDA EFFGEN DE SOUSA",
+        "tipo": "ESPOSA"
+      },
+      {
+        "nome": "CELMA MIRANDA EFFGEN DE SOUSA",
+        "tipo": "SOGRA"
+      },
+      {
+        "nome": "LUCAS COSTA LIMA",
+        "tipo": "IRMÃO"
+      }
+    ],
     "vaga": 1,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1309,
-    "nome": "GABRIELE MIRANDA EFFGEN DE SOUSA",
-    "tipo": "ESPOSA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1309,
-    "nome": "CELMA MIRANDA EFFGEN DE SOUSA",
-    "tipo": "SOGRA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1309,
-    "nome": "LUCAS COSTA LIMA",
-    "tipo": "IRMÃO",
-    "dependentes": [],
-    "vaga": "",
     "veiculo": "",
     "moto": ""
   },
@@ -7932,18 +6249,13 @@
     "apt": 1310,
     "nome": "TAINA MEDEIROS ARAUJO",
     "tipo": "PROPRIETARIO",
-    "dependentes": [],
+    "dependentes": [
+      {
+        "nome": "GUSTAVO PASCHOAL",
+        "tipo": "AMIGO"
+      }
+    ],
     "vaga": 1,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1310,
-    "nome": "GUSTAVO PASCHOAL",
-    "tipo": "AMIGO",
-    "dependentes": [],
-    "vaga": "",
     "veiculo": "",
     "moto": ""
   },
@@ -7952,28 +6264,17 @@
     "apt": 1311,
     "nome": "THAIS PEREIRA DA CRUZ",
     "tipo": "PROPRIETARIA",
-    "dependentes": [],
+    "dependentes": [
+      {
+        "nome": "CARLOS ALBERTO DA CRUZ",
+        "tipo": "PAI"
+      },
+      {
+        "nome": "CARLOS EDUARDO PEREIRA DA CRUZ",
+        "tipo": "IRMÃO"
+      }
+    ],
     "vaga": 1,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1311,
-    "nome": "CARLOS ALBERTO DA CRUZ",
-    "tipo": "PAI",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1311,
-    "nome": "CARLOS EDUARDO PEREIRA DA CRUZ",
-    "tipo": "IRMÃO",
-    "dependentes": [],
-    "vaga": "",
     "veiculo": "",
     "moto": ""
   },
@@ -7982,38 +6283,21 @@
     "apt": 1312,
     "nome": "IGOR BaptISTA PARÁ",
     "tipo": "PROPRIETARIO",
-    "dependentes": [],
+    "dependentes": [
+      {
+        "nome": "ANA CAROLINE DIAS SILVA",
+        "tipo": "ESPOSA"
+      },
+      {
+        "nome": "ELENIR BaptISTA PARÁ",
+        "tipo": "MÃE"
+      },
+      {
+        "nome": "FERNANDA BaptISTA PARÁ",
+        "tipo": "IRMÃ"
+      }
+    ],
     "vaga": 1,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1312,
-    "nome": "ANA CAROLINE DIAS SILVA",
-    "tipo": "ESPOSA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1312,
-    "nome": "ELENIR BaptISTA PARÁ",
-    "tipo": "MÃE",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1312,
-    "nome": "FERNANDA BaptISTA PARÁ",
-    "tipo": "IRMÃ",
-    "dependentes": [],
-    "vaga": "",
     "veiculo": "",
     "moto": ""
   },
@@ -8022,48 +6306,25 @@
     "apt": 1401,
     "nome": "RENAN DOS SANTOS SERRA",
     "tipo": "PROPRIETARIO",
-    "dependentes": [],
+    "dependentes": [
+      {
+        "nome": "ADRYELLE CRISTINE DO NASCIMENTO COSTA",
+        "tipo": "NOIVA"
+      },
+      {
+        "nome": "NIVALDO SEBASTIÃO BENFICA SERRA",
+        "tipo": "PAI"
+      },
+      {
+        "nome": "ROSANGELA DOS SANTOS SERRA",
+        "tipo": "MAE"
+      },
+      {
+        "nome": "ANA VITORIA NASCIMENTO LEANDRO",
+        "tipo": "SOBRINHA"
+      }
+    ],
     "vaga": 1,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1401,
-    "nome": "ADRYELLE CRISTINE DO NASCIMENTO COSTA",
-    "tipo": "NOIVA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1401,
-    "nome": "NIVALDO SEBASTIÃO BENFICA SERRA",
-    "tipo": "PAI",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1401,
-    "nome": "ROSANGELA DOS SANTOS SERRA",
-    "tipo": "MAE",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1401,
-    "nome": "ANA VITORIA NASCIMENTO LEANDRO",
-    "tipo": "SOBRINHA",
-    "dependentes": [],
-    "vaga": "",
     "veiculo": "",
     "moto": ""
   },
@@ -8072,18 +6333,13 @@
     "apt": 1402,
     "nome": "LEANDRO LEITE CARDOSO DA SILVA",
     "tipo": "PROPRIETARIO",
-    "dependentes": [],
+    "dependentes": [
+      {
+        "nome": "RUANA SANTOS PESTANA",
+        "tipo": ""
+      }
+    ],
     "vaga": 1,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1402,
-    "nome": "RUANA SANTOS PESTANA",
-    "tipo": "",
-    "dependentes": [],
-    "vaga": "",
     "veiculo": "",
     "moto": ""
   },
@@ -8092,48 +6348,25 @@
     "apt": 1403,
     "nome": "FELIPE MONTEIRO DA SILVA",
     "tipo": "PROPRIETARIO",
-    "dependentes": [],
+    "dependentes": [
+      {
+        "nome": "ALINE CRISTINA SILVA DE AZEVEDO MONTEIRO",
+        "tipo": "ESPOSA"
+      },
+      {
+        "nome": "SARA DE AZEVEDO MONTEIRO",
+        "tipo": "FILHO"
+      },
+      {
+        "nome": "PAULO SERGIO DA SILVA",
+        "tipo": "TIA"
+      },
+      {
+        "nome": "ARTUR  JOSE SILVA",
+        "tipo": "IRMAO"
+      }
+    ],
     "vaga": 1,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1403,
-    "nome": "ALINE CRISTINA SILVA DE AZEVEDO MONTEIRO",
-    "tipo": "ESPOSA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1403,
-    "nome": "SARA DE AZEVEDO MONTEIRO",
-    "tipo": "FILHO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1403,
-    "nome": "PAULO SERGIO DA SILVA",
-    "tipo": "TIA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1403,
-    "nome": "ARTUR  JOSE SILVA",
-    "tipo": "IRMAO",
-    "dependentes": [],
-    "vaga": "",
     "veiculo": "",
     "moto": ""
   },
@@ -8142,38 +6375,21 @@
     "apt": 1404,
     "nome": "TATIANE GONÇALVES PEREIRA",
     "tipo": "PROPRIETARIO",
-    "dependentes": [],
+    "dependentes": [
+      {
+        "nome": "THAINA PEREIRA MARQUES",
+        "tipo": "FILHA"
+      },
+      {
+        "nome": "ALESSANDRO COSTA PEREIRA",
+        "tipo": "NAMORADO"
+      },
+      {
+        "nome": "EDNA MARIA ROCHA SANTOS",
+        "tipo": "AMIGA"
+      }
+    ],
     "vaga": 1,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1404,
-    "nome": "THAINA PEREIRA MARQUES",
-    "tipo": "FILHA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1404,
-    "nome": "ALESSANDRO COSTA PEREIRA",
-    "tipo": "NAMORADO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1404,
-    "nome": "EDNA MARIA ROCHA SANTOS",
-    "tipo": "AMIGA",
-    "dependentes": [],
-    "vaga": "",
     "veiculo": "",
     "moto": ""
   },
@@ -8182,28 +6398,17 @@
     "apt": 1405,
     "nome": "SOLANGE BEZERRA VITURIANO",
     "tipo": "PROPRIETARIO",
-    "dependentes": [],
+    "dependentes": [
+      {
+        "nome": "FELIPE RAFAEL FERREIRA",
+        "tipo": "MARIDO"
+      },
+      {
+        "nome": "MARIA DAS GRAÇAS PEREIRA VITORIANO",
+        "tipo": "MAE"
+      }
+    ],
     "vaga": 1,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1405,
-    "nome": "FELIPE RAFAEL FERREIRA",
-    "tipo": "MARIDO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1405,
-    "nome": "MARIA DAS GRAÇAS PEREIRA VITORIANO",
-    "tipo": "MAE",
-    "dependentes": [],
-    "vaga": "",
     "veiculo": "",
     "moto": ""
   },
@@ -8212,28 +6417,17 @@
     "apt": 1406,
     "nome": "FATIMA CELIA GALANTE DE AZEVEDO",
     "tipo": "PROPRIETARIO",
-    "dependentes": [],
+    "dependentes": [
+      {
+        "nome": "JORGE DE REZENDE",
+        "tipo": "MARIDO"
+      },
+      {
+        "nome": "LUCAS GALANTE DE RESENDE",
+        "tipo": "FILHO"
+      }
+    ],
     "vaga": 1,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1406,
-    "nome": "JORGE DE REZENDE",
-    "tipo": "MARIDO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1406,
-    "nome": "LUCAS GALANTE DE RESENDE",
-    "tipo": "FILHO",
-    "dependentes": [],
-    "vaga": "",
     "veiculo": "",
     "moto": ""
   },
@@ -8242,18 +6436,13 @@
     "apt": 1407,
     "nome": "BRENO COSTA GONÇALVES",
     "tipo": "PROPRIETARIO",
-    "dependentes": [],
+    "dependentes": [
+      {
+        "nome": "LARISSA EVELYN OLIVEIRA DE ARAUJO GONÇALVES",
+        "tipo": "ESPOSA"
+      }
+    ],
     "vaga": 1,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1407,
-    "nome": "LARISSA EVELYN OLIVEIRA DE ARAUJO GONÇALVES",
-    "tipo": "ESPOSA",
-    "dependentes": [],
-    "vaga": "",
     "veiculo": "",
     "moto": ""
   },
@@ -8262,58 +6451,29 @@
     "apt": 1408,
     "nome": "MARCEL ASSUMPÇÃO LEITE SILVA",
     "tipo": "PROPRIETARIO",
-    "dependentes": [],
+    "dependentes": [
+      {
+        "nome": "RONALDO LEITE SILVA",
+        "tipo": "PAI"
+      },
+      {
+        "nome": "ANA MARIA LUZ DE ASSUMPÇÃO",
+        "tipo": "MAE"
+      },
+      {
+        "nome": "EMMANUEL ASSUMPÇÃO LEITE NASCIMENTO",
+        "tipo": "FILHO"
+      },
+      {
+        "nome": "ISABELA DOS SANTOS NASCIMENTO",
+        "tipo": "ESPOSA"
+      },
+      {
+        "nome": "ZION CEZAR NASCIMENTO MIRANDA",
+        "tipo": "FILHO"
+      }
+    ],
     "vaga": 1,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1408,
-    "nome": "RONALDO LEITE SILVA",
-    "tipo": "PAI",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1408,
-    "nome": "ANA MARIA LUZ DE ASSUMPÇÃO",
-    "tipo": "MAE",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1408,
-    "nome": "EMMANUEL ASSUMPÇÃO LEITE NASCIMENTO",
-    "tipo": "FILHO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1408,
-    "nome": "ISABELA DOS SANTOS NASCIMENTO",
-    "tipo": "ESPOSA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1408,
-    "nome": "ZION CEZAR NASCIMENTO MIRANDA",
-    "tipo": "FILHO",
-    "dependentes": [],
-    "vaga": "",
     "veiculo": "",
     "moto": ""
   },
@@ -8322,28 +6482,17 @@
     "apt": 1409,
     "nome": "GUILHERME GUIMARAES DO NASCIMENTO",
     "tipo": "PROPRIETARIO",
-    "dependentes": [],
+    "dependentes": [
+      {
+        "nome": "JESSICA ALENCAR DE BRITO",
+        "tipo": "ESPOSA"
+      },
+      {
+        "nome": "HELENA ALENCAR NASCIMENTO",
+        "tipo": "FILHA"
+      }
+    ],
     "vaga": 1,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1409,
-    "nome": "JESSICA ALENCAR DE BRITO",
-    "tipo": "ESPOSA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1409,
-    "nome": "HELENA ALENCAR NASCIMENTO",
-    "tipo": "FILHA",
-    "dependentes": [],
-    "vaga": "",
     "veiculo": "",
     "moto": ""
   },
@@ -8362,38 +6511,21 @@
     "apt": 1411,
     "nome": "GEORGE DOS SANTOS CANTIZANO",
     "tipo": "PROPRIETARIO",
-    "dependentes": [],
+    "dependentes": [
+      {
+        "nome": "TATIANA DE PAULO GARCIA",
+        "tipo": "NAMORADA"
+      },
+      {
+        "nome": "ISABELA LISBOA CANTIZANO",
+        "tipo": "FILHA"
+      },
+      {
+        "nome": "PEDRO LISBOA CANTIZANO",
+        "tipo": "FILHO"
+      }
+    ],
     "vaga": 1,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1411,
-    "nome": "TATIANA DE PAULO GARCIA",
-    "tipo": "NAMORADA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1411,
-    "nome": "ISABELA LISBOA CANTIZANO",
-    "tipo": "FILHA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1411,
-    "nome": "PEDRO LISBOA CANTIZANO",
-    "tipo": "FILHO",
-    "dependentes": [],
-    "vaga": "",
     "veiculo": "",
     "moto": ""
   },
@@ -8402,38 +6534,21 @@
     "apt": 1412,
     "nome": "GEORGE FELIPE MELO DE FARIA",
     "tipo": "PROPRIETARIO",
-    "dependentes": [],
+    "dependentes": [
+      {
+        "nome": "NAARA GOMES DA TRINDADE",
+        "tipo": "ESPOSA"
+      },
+      {
+        "nome": "DILCELENE LUCIANO GOMES DA TRINDADE",
+        "tipo": "SOGRA"
+      },
+      {
+        "nome": "CLAUDIO NERY DA TRINDADE",
+        "tipo": "SOGRO"
+      }
+    ],
     "vaga": 1,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1412,
-    "nome": "NAARA GOMES DA TRINDADE",
-    "tipo": "ESPOSA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1412,
-    "nome": "DILCELENE LUCIANO GOMES DA TRINDADE",
-    "tipo": "SOGRA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1412,
-    "nome": "CLAUDIO NERY DA TRINDADE",
-    "tipo": "SOGRO",
-    "dependentes": [],
-    "vaga": "",
     "veiculo": "",
     "moto": ""
   },
@@ -8452,18 +6567,13 @@
     "apt": 1502,
     "nome": "ANDRE LUIZ CARVALHO DA COSTA",
     "tipo": "PROPRIETARIO",
-    "dependentes": [],
+    "dependentes": [
+      {
+        "nome": "HIGOR AMADO CARVALHO",
+        "tipo": "FILHO"
+      }
+    ],
     "vaga": 1,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1502,
-    "nome": "HIGOR AMADO CARVALHO",
-    "tipo": "FILHO",
-    "dependentes": [],
-    "vaga": "",
     "veiculo": "",
     "moto": ""
   },
@@ -8472,28 +6582,17 @@
     "apt": 1503,
     "nome": "RAPHAEL FONSECA DE ABREU",
     "tipo": "PROPRIETARIO",
-    "dependentes": [],
+    "dependentes": [
+      {
+        "nome": "MARCELLY DE OLIVEIRA MACIEL MATTOS",
+        "tipo": "NOIVA"
+      },
+      {
+        "nome": "CLAUDIA DE OLIVEIRA MACIEL MATTOS",
+        "tipo": "MAE"
+      }
+    ],
     "vaga": 1,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1503,
-    "nome": "MARCELLY DE OLIVEIRA MACIEL MATTOS",
-    "tipo": "NOIVA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1503,
-    "nome": "CLAUDIA DE OLIVEIRA MACIEL MATTOS",
-    "tipo": "MAE",
-    "dependentes": [],
-    "vaga": "",
     "veiculo": "",
     "moto": ""
   },
@@ -8502,18 +6601,13 @@
     "apt": 1504,
     "nome": "LEONAN DE SARA AMARAL CORREIRA",
     "tipo": "PROPRIETARIO",
-    "dependentes": [],
+    "dependentes": [
+      {
+        "nome": "VANETE PEREIRA DE OLIVEIRA",
+        "tipo": ""
+      }
+    ],
     "vaga": 1,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1504,
-    "nome": "VANETE PEREIRA DE OLIVEIRA",
-    "tipo": "",
-    "dependentes": [],
-    "vaga": "",
     "veiculo": "",
     "moto": ""
   },
@@ -8522,28 +6616,17 @@
     "apt": 1505,
     "nome": "VANESSA DA SILVA FERREIRA",
     "tipo": "PROPRIETARIO",
-    "dependentes": [],
+    "dependentes": [
+      {
+        "nome": "ANDRESSA DA SILVA FERREIRA",
+        "tipo": "IRMA"
+      },
+      {
+        "nome": "ANA PAULA DA SILVA SONZA",
+        "tipo": "MAE"
+      }
+    ],
     "vaga": 1,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1505,
-    "nome": "ANDRESSA DA SILVA FERREIRA",
-    "tipo": "IRMA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1505,
-    "nome": "ANA PAULA DA SILVA SONZA",
-    "tipo": "MAE",
-    "dependentes": [],
-    "vaga": "",
     "veiculo": "",
     "moto": ""
   },
@@ -8552,38 +6635,21 @@
     "apt": 1506,
     "nome": "ANA ROSA SILVA DOS SANTOS",
     "tipo": "PROPRIETARIO",
-    "dependentes": [],
+    "dependentes": [
+      {
+        "nome": "FABIO DE OLIVEIRA MOTTA",
+        "tipo": "ESPOSO"
+      },
+      {
+        "nome": "FABIANA DOS SANTOS MOTTA",
+        "tipo": "FILHA"
+      },
+      {
+        "nome": "GEOVANA DE OLIVEIRA SILVA",
+        "tipo": "FILHA"
+      }
+    ],
     "vaga": 1,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1506,
-    "nome": "FABIO DE OLIVEIRA MOTTA",
-    "tipo": "ESPOSO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1506,
-    "nome": "FABIANA DOS SANTOS MOTTA",
-    "tipo": "FILHA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1506,
-    "nome": "GEOVANA DE OLIVEIRA SILVA",
-    "tipo": "FILHA",
-    "dependentes": [],
-    "vaga": "",
     "veiculo": "",
     "moto": ""
   },
@@ -8592,28 +6658,17 @@
     "apt": 1507,
     "nome": "ERICA PEREIRA RIBEIRO",
     "tipo": "PROPRIETARIO",
-    "dependentes": [],
+    "dependentes": [
+      {
+        "nome": "SILVIA REGINA PEREIRA RIBEIRO",
+        "tipo": "MAE"
+      },
+      {
+        "nome": "JESSICA CHRISTYNA DOS SANTOS FEITEIRA",
+        "tipo": "NAMORADA"
+      }
+    ],
     "vaga": 1,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1507,
-    "nome": "SILVIA REGINA PEREIRA RIBEIRO",
-    "tipo": "MAE",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1507,
-    "nome": "JESSICA CHRISTYNA DOS SANTOS FEITEIRA",
-    "tipo": "NAMORADA",
-    "dependentes": [],
-    "vaga": "",
     "veiculo": "",
     "moto": ""
   },
@@ -8622,18 +6677,13 @@
     "apt": 1508,
     "nome": "RENATA DIAS PEREIRA",
     "tipo": "PROPRIETARIO",
-    "dependentes": [],
+    "dependentes": [
+      {
+        "nome": "FELIPE BaptISTA LEITE",
+        "tipo": "MARIDO"
+      }
+    ],
     "vaga": 1,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1508,
-    "nome": "FELIPE BaptISTA LEITE",
-    "tipo": "MARIDO",
-    "dependentes": [],
-    "vaga": "",
     "veiculo": "",
     "moto": ""
   },
@@ -8642,58 +6692,29 @@
     "apt": 1509,
     "nome": "DANIELE BORGES CARVALHO",
     "tipo": "PROPRIETARIO",
-    "dependentes": [],
+    "dependentes": [
+      {
+        "nome": "LUIS CESAR CARVALHO",
+        "tipo": "ESPOSO"
+      },
+      {
+        "nome": "JOAO PEDRO BORGES CARVALHO",
+        "tipo": "FILHO"
+      },
+      {
+        "nome": "MANUELA BORGES CARVALHO",
+        "tipo": "FILHA"
+      },
+      {
+        "nome": "MARIA EDUARDA PEXIOLINE BORGES",
+        "tipo": "FILHA"
+      },
+      {
+        "nome": "ALICE AUGUSTO BORGES",
+        "tipo": "MAE"
+      }
+    ],
     "vaga": 1,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1509,
-    "nome": "LUIS CESAR CARVALHO",
-    "tipo": "ESPOSO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1509,
-    "nome": "JOAO PEDRO BORGES CARVALHO",
-    "tipo": "FILHO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1509,
-    "nome": "MANUELA BORGES CARVALHO",
-    "tipo": "FILHA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1509,
-    "nome": "MARIA EDUARDA PEXIOLINE BORGES",
-    "tipo": "FILHA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1509,
-    "nome": "ALICE AUGUSTO BORGES",
-    "tipo": "MAE",
-    "dependentes": [],
-    "vaga": "",
     "veiculo": "",
     "moto": ""
   },
@@ -8702,18 +6723,13 @@
     "apt": 1510,
     "nome": "ANTONIO SILVA DE ARAUJO",
     "tipo": "PROPRIETARIO",
-    "dependentes": [],
+    "dependentes": [
+      {
+        "nome": "JANDIRA SILVA DE ARAUJO",
+        "tipo": "MAE"
+      }
+    ],
     "vaga": 1,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1510,
-    "nome": "JANDIRA SILVA DE ARAUJO",
-    "tipo": "MAE",
-    "dependentes": [],
-    "vaga": "",
     "veiculo": "",
     "moto": ""
   },
@@ -8732,18 +6748,13 @@
     "apt": 1512,
     "nome": "NATHALIA PRINCE SILVEIRA DA SILVA",
     "tipo": "PROPRIETARIO",
-    "dependentes": [],
+    "dependentes": [
+      {
+        "nome": "AUDREY DA COSTA SILVA",
+        "tipo": "NAMORADA"
+      }
+    ],
     "vaga": 1,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1512,
-    "nome": "AUDREY DA COSTA SILVA",
-    "tipo": "NAMORADA",
-    "dependentes": [],
-    "vaga": "",
     "veiculo": "",
     "moto": ""
   },
@@ -8752,48 +6763,25 @@
     "apt": 1601,
     "nome": "CLAUDIO MARCELO DOS SANTOS",
     "tipo": "PROPRIETARIO",
-    "dependentes": [],
+    "dependentes": [
+      {
+        "nome": "CARLOS HENRIQUE COSTA LANA",
+        "tipo": "PROCURADOR"
+      },
+      {
+        "nome": "RAQUEL MENDES DE LIMA DOS SANTOS",
+        "tipo": "ESPOSA"
+      },
+      {
+        "nome": "RENAN WILLIAM LIMA DOS SANTOS",
+        "tipo": "FILHO"
+      },
+      {
+        "nome": "DAVI LUCAS LIMA DOS SANTOS",
+        "tipo": "FILHO"
+      }
+    ],
     "vaga": 1,
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1601,
-    "nome": "CARLOS HENRIQUE COSTA LANA",
-    "tipo": "PROCURADOR",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1601,
-    "nome": "RAQUEL MENDES DE LIMA DOS SANTOS",
-    "tipo": "ESPOSA",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1601,
-    "nome": "RENAN WILLIAM LIMA DOS SANTOS",
-    "tipo": "FILHO",
-    "dependentes": [],
-    "vaga": "",
-    "veiculo": "",
-    "moto": ""
-  },
-  {
-    "bloco": 2,
-    "apt": 1601,
-    "nome": "DAVI LUCAS LIMA DOS SANTOS",
-    "tipo": "FILHO",
-    "dependentes": [],
-    "vaga": "",
     "veiculo": "",
     "moto": ""
   },
@@ -8801,8 +6789,21 @@
     "bloco": 2,
     "apt": 1602,
     "nome": "ACACIO DA SILVA",
-    "tipo": "",
-    "dependentes": [],
+    "tipo": "PROPRIETARIO",
+    "dependentes": [
+      {
+        "nome": "MILIANE ALVES DA SILVA LOPES",
+        "tipo": "ESPOSA"
+      },
+      {
+        "nome": "LEONARDO ALVES LOPES",
+        "tipo": "FILHO"
+      },
+      {
+        "nome": "MARILU ALVES DA SILVA",
+        "tipo": "SOGRA"
+      }
+    ],
     "vaga": 1,
     "veiculo": "",
     "moto": ""
@@ -8810,9 +6811,26 @@
   {
     "bloco": 2,
     "apt": 1603,
-    "nome": "",
-    "tipo": "",
-    "dependentes": [],
+    "nome": "AMANDA RODRIGUES DA ROCHA",
+    "tipo": "PROPRIETARIO",
+    "dependentes": [
+      {
+        "nome": "ALLAN RODRIGUES DA ROCHA SOARES",
+        "tipo": "FILHO"
+      },
+      {
+        "nome": "MARGARIDA DA SILVA RODRIGUES",
+        "tipo": "MAE"
+      },
+      {
+        "nome": "CRISTAL SILVA RODRIGUES",
+        "tipo": "IRMA"
+      },
+      {
+        "nome": "BRUNO GONÇALVES DOS SANTOS",
+        "tipo": "ESPOSO"
+      }
+    ],
     "vaga": 1,
     "veiculo": "",
     "moto": ""
@@ -8820,9 +6838,14 @@
   {
     "bloco": 2,
     "apt": 1604,
-    "nome": "",
-    "tipo": "",
-    "dependentes": [],
+    "nome": "DAVID LIRA SANTOS DE QUEIROZ",
+    "tipo": "PROPIETARIO",
+    "dependentes": [
+      {
+        "nome": "JESSE DA SILVA",
+        "tipo": "AMIGO"
+      }
+    ],
     "vaga": 1,
     "veiculo": "",
     "moto": ""
@@ -8830,9 +6853,18 @@
   {
     "bloco": 2,
     "apt": 1605,
-    "nome": "",
-    "tipo": "",
-    "dependentes": [],
+    "nome": "SIDINEIA PEREIRA MAIA",
+    "tipo": "PROPIETARIO",
+    "dependentes": [
+      {
+        "nome": "JUAN MAIA",
+        "tipo": "FILHO"
+      },
+      {
+        "nome": "JOHANN MAIA",
+        "tipo": "FILHO"
+      }
+    ],
     "vaga": 1,
     "veiculo": "",
     "moto": ""
@@ -8840,9 +6872,18 @@
   {
     "bloco": 2,
     "apt": 1606,
-    "nome": "",
-    "tipo": "",
-    "dependentes": [],
+    "nome": "ANDERSON MARTINS SOARES",
+    "tipo": "PROPRIERTARIO",
+    "dependentes": [
+      {
+        "nome": "FLAVIO RIBEIRO FLORENCIO",
+        "tipo": "ESPOSO"
+      },
+      {
+        "nome": "LUCIA MARIA DOS SANTOS RIBEIRO",
+        "tipo": "MAE"
+      }
+    ],
     "vaga": 1,
     "veiculo": "",
     "moto": ""
@@ -8850,9 +6891,14 @@
   {
     "bloco": 2,
     "apt": 1607,
-    "nome": "",
-    "tipo": "",
-    "dependentes": [],
+    "nome": "LUCIANA CONCEIÇÃO DA SILVA",
+    "tipo": "PROPIETARIO",
+    "dependentes": [
+      {
+        "nome": "ALEXANDRE DA SILVA CARDOSO",
+        "tipo": "CUNHADO"
+      }
+    ],
     "vaga": 1,
     "veiculo": "",
     "moto": ""
@@ -8860,9 +6906,18 @@
   {
     "bloco": 2,
     "apt": 1608,
-    "nome": "",
-    "tipo": "",
-    "dependentes": [],
+    "nome": "VERONICA LEITE DE HOLANDA GOMES",
+    "tipo": "PROPRIETARIA",
+    "dependentes": [
+      {
+        "nome": "CAIQUE LEITE DE HOLANDA GOMES",
+        "tipo": ""
+      },
+      {
+        "nome": "LINEANE SILVA LEITE",
+        "tipo": "MAE"
+      }
+    ],
     "vaga": 1,
     "veiculo": "",
     "moto": ""
@@ -8880,8 +6935,8 @@
   {
     "bloco": 2,
     "apt": 1610,
-    "nome": "",
-    "tipo": "",
+    "nome": "KENYA MENDONÇA NERY",
+    "tipo": "PROPRIERTARIO",
     "dependentes": [],
     "vaga": 1,
     "veiculo": "",
@@ -8900,9 +6955,26 @@
   {
     "bloco": 2,
     "apt": 1612,
-    "nome": "",
-    "tipo": "",
-    "dependentes": [],
+    "nome": "ADRIANA MARQUES TEIXEIRA",
+    "tipo": "PROPRIETARIA",
+    "dependentes": [
+      {
+        "nome": "NEYMAR DA SILVA DUARTE",
+        "tipo": "ESPOSO"
+      },
+      {
+        "nome": "NATALIE MARQUES FEITOSA",
+        "tipo": "FILHA"
+      },
+      {
+        "nome": "LUIZ FELIPE DA SILVA DUARTE",
+        "tipo": "FILHO"
+      },
+      {
+        "nome": "MARIA EDUARDA FERNANDES SILVA",
+        "tipo": "ENTEADA"
+      }
+    ],
     "vaga": 1,
     "veiculo": "",
     "moto": ""
