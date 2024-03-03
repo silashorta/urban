@@ -13,7 +13,7 @@ function App() {
   const [moradores, setMoradores] = useState([]);
 
   useEffect(() => {
-    fetch('https://silashortadev.com.br:21098/morador')
+    fetch('http://silashortadev.com.br:21098/morador')
       .then(response => response.json())
       .then(data => {
         setMoradores(data);
