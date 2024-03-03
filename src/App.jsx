@@ -13,25 +13,26 @@ function App() {
   const [moradores, setMoradores] = useState([]);
 
   useEffect(() => {
-    fetch('http://silashortadev.com.br:21098/morador')
+    fetch('https://silashortadev.com.br:21098/morador')
       .then(response => response.json())
       .then(data => {
         setMoradores(data);
       })
       .catch(error => console.error('Erro ao buscar moradores:', error));
+      
+    }, []);
+    
+    const handleSearch = (e) => {
+      const searchTerm = e.target.value.toLowerCase();
+      setSearchTerm(searchTerm);
+    };
+    
+    const filteredData = moradores.filter(item => {
+      // Se o termo de pesquisa estiver vazio, mostrar toda a lista
+      if (!searchTerm) return true;
+      
+      // Verificar se o nome, o número do apartamento ou o nome dos dependentes contêm o termo de pesquisa
 
-  }, []);
-
-  const handleSearch = (e) => {
-    const searchTerm = e.target.value.toLowerCase();
-    setSearchTerm(searchTerm);
-  };
-
-  const filteredData = moradores.filter(item => {
-    // Se o termo de pesquisa estiver vazio, mostrar toda a lista
-    if (!searchTerm) return true;
-  
-    // Verificar se o nome, o número do apartamento ou o nome dos dependentes contêm o termo de pesquisa
     return item.nome.toLowerCase().includes(searchTerm) ||
       (item.apartamento && item.apartamento.toString().includes(searchTerm)) ||
       (item.dependentes && item.dependentes.length > 0 && item.dependentes.some(dependente => dependente.nome.toLowerCase().includes(searchTerm)));
