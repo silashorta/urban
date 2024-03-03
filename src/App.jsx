@@ -59,7 +59,7 @@ function App() {
           </div>
         </div>
         {filteredData && filteredData.length === 0 ? (
-          <div className="text-gray-600 text-xl text-center">Nenhum registro encontrado.</div>
+          <div className="min-h-screen text-gray-600 text-xl text-center">Nenhum registro encontrado.</div>
         ) : (
           filteredData && filteredData.map((item, index) => (
             <div key={index} className='flex flex-col gap-2 m-2 p-4 lg:p-8 bg-gray-50 rounded-lg'>
