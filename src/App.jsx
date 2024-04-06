@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import './App.css';
 import logo from '../public/logo.png';
+import unidecode from 'unidecode';
 
 import { CiSearch } from "react-icons/ci";
 import { FaUser, FaUserFriends } from "react-icons/fa";
@@ -114,15 +115,24 @@ const submitAlteracoes = async () => {
     setSearchTerm(searchTerm);
   };
 
-  const filteredData = moradores.filter(item => {
-    // Se o termo de pesquisa estiver vazio, mostrar toda a lista
-    if (!searchTerm) return true;
-  
-    // Verificar se o nome, o número do apartamento ou o nome dos dependentes contêm o termo de pesquisa
-    return item.nome.toLowerCase().includes(searchTerm) ||
-      (item.apartamento && item.apartamento.toString().includes(searchTerm)) ||
-      (item.Dependentes && item.Dependentes.length > 0 && item.Dependentes.some(dependente => dependente.nome.toLowerCase().includes(searchTerm)));
-  });
+// Função para remover acentos e pontuação de uma string
+function normalizeString(str) {
+  return unidecode(str).toLowerCase().replace(/[^\w\s]/g, '');
+}
+
+const filteredData = moradores.filter(item => {
+  // Se o termo de pesquisa estiver vazio, mostrar toda a lista
+  if (!searchTerm) return true;
+
+  // Normalizar o termo de pesquisa
+  const normalizedSearchTerm = normalizeString(searchTerm);
+
+  // Verificar se o nome, o número do apartamento ou o nome dos dependentes contêm o termo de pesquisa
+  return normalizeString(item.nome).includes(normalizedSearchTerm) ||
+    (item.apartamento && item.apartamento.toString().includes(searchTerm)) ||
+    (item.Dependentes && item.Dependentes.length > 0 && item.Dependentes.some(dependente => normalizeString(dependente.nome).includes(normalizedSearchTerm)));
+});
+
   
 
   return (
